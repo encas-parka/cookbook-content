@@ -20,7 +20,7 @@ Les recettes [doivent être déjà publiées]({{< ref "docs/editer/recettes.md#p
 
 Les recettes de l'événement sont classées par jours et par repas (midi, soir). Chaque repas peut contenir plusieurs recettes (entrée, plat, dessert, alternative véganne, etc.).
 
-- Vous n'êtes pas obligés d'organiser les repas de manière chronologique (cela sera automatiquement fait sur la page du site), mais ça peut aider a s'y retrouver ;-). 
+- Vous n'êtes pas obligé·es d'organiser les repas de manière chronologique (cela sera automatiquement fait sur la page du site), mais ça peut aider à s'y retrouver ;-). 
 
 - Il est possible de 'réduire' les "recettes du repas" ou chacune des recettes pour avoir un meilleurs aperçu de l'ensemble et retrier les éléments si besoin.
 
