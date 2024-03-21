@@ -12,9 +12,9 @@ gallery: true
 ---
 
 
-Les pages événements permettent de rassembler différentes recettes pour le nombre de couvert prévu pour chaque repas / chaque jours, et de lister l’ensemble des ingrédients nécessaires pour l’ensemble des recettes, avec le calcul des quantités totales pour chaque ingrédient.
+Les pages événements permettent de rassembler différentes recettes pour le nombre de couverts prévus pour chaque repas / chaque jours, et de lister l’ensemble des ingrédients nécessaires pour l’ensemble des recettes, avec le calcul des quantités totales pour chaque ingrédient.
 
-Les recettes [doivent être déjà publiées]({{< ref "docs/editer/recettes.md#pr%C3%A9parations-alternatives" >}}) sur le site pour pouvoir être utilisées sur la page des menus. Si les recettes utilisées sont par la suite renommé ou supprimées sans que les pages menus soient actualisées, elles seront buggées : 
+Les recettes [doivent être déjà publiées]({{< ref "docs/editer/recettes.md#pr%C3%A9parations-alternatives" >}}) sur le site pour pouvoir être utilisées sur la page des menus. Si les recettes utilisées sont par la suite renommées ou supprimées sans que les pages menus soient actualisées, elles seront buggées : 
 
 {{< img-grid from="content" match="img/recette-erreur*.jpg" size="12 lg:6" >}}
 
