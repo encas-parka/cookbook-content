@@ -321,6 +321,34 @@
       "vegan": true
     },
     {
+      "title": "Lait demi-écrémé",
+      "alergenesIng": [
+        "Produit laitier"
+      ],
+      "vegetarien": true,
+      "sans_lactose": false,
+      "vegan": false
+    },
+    {
+      "title": "Lait écrémé",
+      "alergenesIng": [
+        "Produit laitier"
+      ],
+      "vegetarien": true,
+      "sans_lactose": false,
+      "vegan": false
+    },
+    {
+      "title": "Lait entier",
+      "alergenesIng": [
+        "Produit laitier"
+      ],
+      "vegetarien": true,
+      "sans_lactose": false,
+      "vegan": false
+    },
+   
+    {
       "alergenesIng": [
         "Oeuf"
       ],
