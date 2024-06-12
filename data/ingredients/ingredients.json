@@ -6,6 +6,7 @@
         ],
         "pFrais": true,
         "ingType": "animaux"
+        
     },
     {
         "title": "Andouille (charcuterie)",
@@ -159,7 +160,7 @@
     {
         "title": "Calamar (fruits de mer)",
         "alergenesIng": [
-            "Crustac\u00e9"
+            "Crustacé"
         ],
         "pFrais": true,
         "ingType": "animaux"
@@ -214,7 +215,7 @@
         "ingType": "animaux"
     },
     {
-        "title": "Chair \u00e0 saucisse (charcuterie)",
+        "title": "Chair à saucisse (charcuterie)",
         "alergenesIng": [
             "Viande",
             "Porc"
@@ -289,7 +290,7 @@
         "ingType": "animaux"
     },
     {
-        "title": "C\u00f4te (agneau)",
+        "title": "Côte (agneau)",
         "alergenesIng": [
             "Viande"
         ],
@@ -297,7 +298,7 @@
         "ingType": "animaux"
     },
     {
-        "title": "C\u00f4te (veau)",
+        "title": "Côte (veau)",
         "alergenesIng": [
             "Viande"
         ],
@@ -305,7 +306,7 @@
         "ingType": "animaux"
     },
     {
-        "title": "C\u00f4te \u00e9chine (porc)",
+        "title": "Côte échine (porc)",
         "alergenesIng": [
             "Porc"
         ],
@@ -313,7 +314,7 @@
         "ingType": "animaux"
     },
     {
-        "title": "C\u00f4te premi\u00e8re (porc)",
+        "title": "Côte première (porc)",
         "alergenesIng": [
             "Porc"
         ],
@@ -321,7 +322,7 @@
         "ingType": "animaux"
     },
     {
-        "title": "C\u00f4telette (agneau)",
+        "title": "Côtelette (agneau)",
         "alergenesIng": [
             "Viande"
         ],
@@ -329,7 +330,7 @@
         "ingType": "animaux"
     },
     {
-        "title": "C\u00f4telette (porc)",
+        "title": "Côtelette (porc)",
         "alergenesIng": [
             "Porc"
         ],
@@ -339,7 +340,7 @@
     {
         "title": "Crabe (fruits de mer)",
         "alergenesIng": [
-            "Crustac\u00e9"
+            "Crustacé"
         ],
         "pFrais": true,
         "ingType": "animaux"
@@ -347,7 +348,7 @@
     {
         "title": "Crevette (fruits de mer)",
         "alergenesIng": [
-            "Crustac\u00e9"
+            "Crustacé"
         ],
         "pFrais": true,
         "ingType": "animaux"
@@ -385,7 +386,7 @@
         "ingType": "animaux"
     },
     {
-        "title": "\u00e9chine (porc)",
+        "title": "échine (porc)",
         "alergenesIng": [
             "Porc"
         ],
@@ -393,7 +394,7 @@
         "ingType": "animaux"
     },
     {
-        "title": "\u00e9glefin ou aiglefin (poisson)",
+        "title": "églefin ou aiglefin (poisson)",
         "alergenesIng": [
             "Poisson"
         ],
@@ -401,7 +402,7 @@
         "ingType": "animaux"
     },
     {
-        "title": "Eminc\u00e9s de poulet (volaille et gibier)",
+        "title": "Emincés de poulet (volaille et gibier)",
         "alergenesIng": [
             "Viande"
         ],
@@ -409,7 +410,7 @@
         "ingType": "animaux"
     },
     {
-        "title": "Entrec\u00f4te (boeuf)",
+        "title": "Entrecôte (boeuf)",
         "alergenesIng": [
             "Viande"
         ],
@@ -417,7 +418,7 @@
         "ingType": "animaux"
     },
     {
-        "title": "\u00e9paule (agneau)",
+        "title": "épaule (agneau)",
         "alergenesIng": [
             "Viande"
         ],
@@ -425,7 +426,7 @@
         "ingType": "animaux"
     },
     {
-        "title": "\u00e9paule (veau)",
+        "title": "épaule (veau)",
         "alergenesIng": [
             "Viande"
         ],
@@ -433,7 +434,7 @@
         "ingType": "animaux"
     },
     {
-        "title": "\u00e9paule cuite d\u00e9graiss\u00e9e (porc)",
+        "title": "épaule cuite dégraissée (porc)",
         "alergenesIng": [
             "Porc"
         ],
@@ -441,7 +442,7 @@
         "ingType": "animaux"
     },
     {
-        "title": "\u00e9perlan (poisson)",
+        "title": "éperlan (poisson)",
         "alergenesIng": [
             "Poisson"
         ],
@@ -529,7 +530,7 @@
         "ingType": "animaux"
     },
     {
-        "title": "Fl\u00e9tan (poisson)",
+        "title": "Flétan (poisson)",
         "alergenesIng": [
             "Poisson"
         ],
@@ -561,7 +562,7 @@
         "ingType": "animaux"
     },
     {
-        "title": "Hampe grill\u00e9e (boeuf)",
+        "title": "Hampe grillée (boeuf)",
         "alergenesIng": [
             "Viande"
         ],
@@ -579,13 +580,13 @@
     {
         "title": "Homard (fruits de mer)",
         "alergenesIng": [
-            "Crustac\u00e9"
+            "Crustacé"
         ],
         "pFrais": true,
         "ingType": "animaux"
     },
     {
-        "title": "Hu\u00eftre (fruits de mer)",
+        "title": "Huïtre (fruits de mer)",
         "alergenesIng": [
             "Mollusque"
         ],
@@ -655,7 +656,7 @@
     {
         "title": "Langouste (fruits de mer)",
         "alergenesIng": [
-            "Crustac\u00e9"
+            "Crustacé"
         ],
         "pFrais": true,
         "ingType": "animaux"
@@ -663,7 +664,7 @@
     {
         "title": "Langoustine (fruits de mer)",
         "alergenesIng": [
-            "Crustac\u00e9"
+            "Crustacé"
         ],
         "pFrais": true,
         "ingType": "animaux"
@@ -719,7 +720,7 @@
         "ingType": "animaux"
     },
     {
-        "title": "Li\u00e8vre (volaille et gibier)",
+        "title": "Lièvre (volaille et gibier)",
         "alergenesIng": [
             "Viande"
         ],
@@ -743,7 +744,7 @@
         "ingType": "animaux"
     },
     {
-        "title": "Magret de canard fum\u00e9 (charcuterie)",
+        "title": "Magret de canard fumé (charcuterie)",
         "alergenesIng": [
             "Viande"
         ],
@@ -794,7 +795,7 @@
     {
         "title": "Moule (fruits de mer)",
         "alergenesIng": [
-            "Crustac\u00e9"
+            "Crustacé"
         ],
         "pFrais": true,
         "ingType": "animaux"
@@ -857,7 +858,7 @@
         "ingType": "animaux"
     },
     {
-        "title": "P\u00e2t\u00e9 de campagne (charcuterie)",
+        "title": "P\u00e2té de campagne (charcuterie)",
         "alergenesIng": [
             "Viande",
             "Porc"
@@ -866,7 +867,7 @@
         "ingType": "animaux"
     },
     {
-        "title": "P\u00e2t\u00e9 de foie (charcuterie)",
+        "title": "P\u00e2té de foie (charcuterie)",
         "alergenesIng": [
             "Viande",
             "Porc"
@@ -900,7 +901,7 @@
         "ingType": "animaux"
     },
     {
-        "title": "Petit sal\u00e9 (charcuterie)",
+        "title": "Petit salé (charcuterie)",
         "alergenesIng": [
             "Viande",
             "Porc"
@@ -965,7 +966,7 @@
         "ingType": "animaux"
     },
     {
-        "title": "Poulet r\u00f4ti (volaille et gibier)",
+        "title": "Poulet rôti (volaille et gibier)",
         "alergenesIng": [
             "Viande"
         ],
@@ -1080,7 +1081,7 @@
         "ingType": "animaux"
     },
     {
-        "title": "R\u00f4ti (porc)",
+        "title": "Rôti (porc)",
         "alergenesIng": [
             "Porc"
         ],
@@ -1088,7 +1089,7 @@
         "ingType": "animaux"
     },
     {
-        "title": "R\u00f4ti (veau)",
+        "title": "Rôti (veau)",
         "alergenesIng": [
             "Viande"
         ],
@@ -1096,7 +1097,7 @@
         "ingType": "animaux"
     },
     {
-        "title": "R\u00f4ti cuit (porc)",
+        "title": "Rôti cuit (porc)",
         "alergenesIng": [
             "Porc"
         ],
@@ -1104,7 +1105,7 @@
         "ingType": "animaux"
     },
     {
-        "title": "R\u00f4ti de dinde (volaille et gibier)",
+        "title": "Rôti de dinde (volaille et gibier)",
         "alergenesIng": [
             "Viande"
         ],
@@ -1112,7 +1113,7 @@
         "ingType": "animaux"
     },
     {
-        "title": "R\u00f4ti Orloff (veau)",
+        "title": "Rôti Orloff (veau)",
         "alergenesIng": [
             "Viande"
         ],
@@ -1219,7 +1220,7 @@
         "ingType": "animaux"
     },
     {
-        "title": "Steak hach\u00e9 (boeuf)",
+        "title": "Steak haché (boeuf)",
         "alergenesIng": [
             "Viande"
         ],
@@ -1227,7 +1228,7 @@
         "ingType": "animaux"
     },
     {
-        "title": "T\u00eate de veau (abats)",
+        "title": "Tête de veau (abats)",
         "alergenesIng": [
             "Viande"
         ],
@@ -1275,7 +1276,7 @@
         "ingType": "animaux"
     },
     {
-        "title": "Viande hach\u00e9e (boeuf)",
+        "title": "Viande hachée (boeuf)",
         "alergenesIng": [
             "Viande"
         ],
@@ -1283,7 +1284,7 @@
         "ingType": "animaux"
     },
     {
-        "title": "Viande hach\u00e9e (porc)",
+        "title": "Viande hachée (porc)",
         "alergenesIng": [
             "Porc"
         ],
@@ -1291,7 +1292,7 @@
         "ingType": "animaux"
     },
     {
-        "title": "Viande hach\u00e9e (veau)",
+        "title": "Viande hachée (veau)",
         "alergenesIng": [
             "Viande"
         ],
@@ -1300,7 +1301,7 @@
     },
     {
         "pFrais": false,
-        "title": "Champignon shiitake s\u00e9ch\u00e9",
+        "title": "Champignon shiitake séché",
         "ingType": "legumes"
     },
     {
@@ -1315,7 +1316,7 @@
     },
     {
         "pFrais": false,
-        "title": "Champignons s\u00e9ch\u00e9s",
+        "title": "Champignons séchés",
         "ingType": "legumes"
     },
     {
@@ -1330,7 +1331,7 @@
     },
     {
         "pFrais": true,
-        "title": "Orange non trait\u00e9e",
+        "title": "Orange non traitée",
         "ingType": "legumes"
     },
     {
@@ -1340,12 +1341,12 @@
     },
     {
         "pFrais": true,
-        "title": "Citron non trait\u00e9",
+        "title": "Citron non traité",
         "ingType": "legumes"
     },
     {
         "pFrais": true,
-        "title": "Salade verte (ch\u00eane)",
+        "title": "Salade verte (chêne)",
         "ingType": "legumes"
     },
     {
@@ -1380,7 +1381,7 @@
     },
     {
         "pFrais": false,
-        "title": "Petits pois surgel\u00e9s",
+        "title": "Petits pois surgelés",
         "ingType": "legumes"
     },
     {
@@ -1390,11 +1391,11 @@
     },
     {
         "pFrais": false,
-        "title": "Olives noires \u00e0 la grecque",
+        "title": "Olives noires à la grecque",
         "ingType": "legumes"
     },
     {
-        "title": "C\u00e9bette - Ciboule - Cive - Oignon vert",
+        "title": "Cébette - Ciboule - Cive - Oignon vert",
         "pFrais": false,
         "ingType": "legumes"
     },
@@ -1408,7 +1409,7 @@
         "ingType": "legumes"
     },
     {
-        "title": "Figues S\u00e8ches",
+        "title": "Figues Sèches",
         "pFrais": true,
         "ingType": "legumes"
     },
@@ -1468,7 +1469,7 @@
         "ingType": "legumes"
     },
     {
-        "title": "Banane s\u00e9ch\u00e9e",
+        "title": "Banane séchée",
         "pFrais": false,
         "ingType": "legumes"
     },
@@ -1508,25 +1509,25 @@
         "ingType": "legumes"
     },
     {
-        "title": "C\u00e9leri",
+        "title": "Céleri",
         "alergenesIng": [
-            "C\u00e9leri"
+            "Céleri"
         ],
         "pFrais": true,
         "ingType": "legumes"
     },
     {
-        "title": "C\u00e9leri branche",
+        "title": "Céleri branche",
         "alergenesIng": [
-            "C\u00e9leri"
+            "Céleri"
         ],
         "pFrais": true,
         "ingType": "legumes"
     },
     {
-        "title": "C\u00e9leri rave",
+        "title": "Céleri rave",
         "alergenesIng": [
-            "C\u00e9leri"
+            "Céleri"
         ],
         "pFrais": true,
         "ingType": "legumes"
@@ -1572,7 +1573,7 @@
         "ingType": "legumes"
     },
     {
-        "title": "Chou fris\u00e9",
+        "title": "Chou frisé",
         "pFrais": true,
         "ingType": "legumes"
     },
@@ -1627,7 +1628,7 @@
         "ingType": "legumes"
     },
     {
-        "title": "Cl\u00e9mentine",
+        "title": "Clémentine",
         "pFrais": true,
         "ingType": "legumes"
     },
@@ -1852,7 +1853,7 @@
         "ingType": "legumes"
     },
     {
-        "title": "Past\u00e8que",
+        "title": "Pastèque",
         "pFrais": true,
         "ingType": "legumes"
     },
@@ -1995,7 +1996,7 @@
         "ingType": "legumes"
     },
     {
-        "title": "Tomate s\u00e9ch\u00e9e",
+        "title": "Tomate séchée",
         "pFrais": false,
         "ingType": "legumes"
     },
@@ -2013,7 +2014,7 @@
         "ingType": "sucres"
     },
     {
-        "title": "Sirop d'\u00e9rable ",
+        "title": "Sirop d'érable ",
         "ingType": "sucres"
     },
     {
@@ -2021,7 +2022,7 @@
         "ingType": "sucres"
     },
     {
-        "title": "M\u00e9lasse",
+        "title": "Mélasse",
         "ingType": "sucres"
     },
     {
@@ -2065,7 +2066,7 @@
         "alergenesIng": [
             "Gluten",
             "Produit laitier",
-            "S\u00e9same",
+            "Sésame",
             "Oeuf"
         ],
         "ingType": "sucres"
@@ -2107,7 +2108,7 @@
         "ingType": "sucres"
     },
     {
-        "title": "Chocolat pralin\u00e9",
+        "title": "Chocolat praliné",
         "ingType": "sucres"
     },
     {
@@ -2183,27 +2184,27 @@
         "ingType": "sucres"
     },
     {
-        "title": "P\u00e9pites de chocolat",
+        "title": "Pépites de chocolat",
         "ingType": "sucres"
     },
     {
         "title": "Poudre d'amandes",
         "alergenesIng": [
-            "Fruit \u00e0 coque"
+            "Fruit à coque"
         ],
         "ingType": "sucres"
     },
     {
         "title": "Poudre de noisettes",
         "alergenesIng": [
-            "Fruit \u00e0 coque"
+            "Fruit à coque"
         ],
         "ingType": "sucres"
     },
     {
         "title": "Praslin en poudre",
         "alergenesIng": [
-            "Fruit \u00e0 coque"
+            "Fruit à coque"
         ],
         "ingType": "sucres"
     },
@@ -2216,22 +2217,22 @@
         "ingType": "sucres"
     },
     {
-        "title": "Sucre vanill\u00e9",
+        "title": "Sucre vanillé",
         "ingType": "sucres"
     },
     {
-        "title": "Caf\u00e9 moulu",
+        "title": "Café moulu",
         "ingType": "autres"
     },
     {
-        "title": "Chunks (prot\u00e9ine de soja)",
+        "title": "Chunks (protéine de soja)",
         "alergenesIng": [
             "Soja"
         ],
         "ingType": "autres"
     },
     {
-        "title": "Th\u00e9 Matcha",
+        "title": "Thé Matcha",
         "ingType": "autres"
     },
     {
@@ -2243,7 +2244,7 @@
         "ingType": "autres"
     },
     {
-        "title": "Pesto Rosso v\u00e9gan",
+        "title": "Pesto Rosso végan",
         "ingType": "autres"
     },
     {
@@ -2258,40 +2259,40 @@
         "ingType": "autres"
     },
     {
-        "title": "Pate feuillet\u00e9 sans gluten et vegan",
+        "title": "Pate feuilleté sans gluten et vegan",
         "ingType": "autres"
     },
     {
-        "title": "Pate feuillet\u00e9e sans gluten",
+        "title": "Pate feuilletée sans gluten",
         "ingType": "autres"
     },
     {
-        "title": "Pate feuillet\u00e9e",
+        "title": "Pate feuilletée",
         "alergenesIng": [
             "Gluten"
         ],
         "ingType": "autres"
     },
     {
-        "title": "Beurre de cacahu\u00e8tes (sal\u00e9)",
+        "title": "Beurre de cacahuètes (salé)",
         "alergenesIng": [
             "Arachides"
         ],
         "ingType": "autres"
     },
     {
-        "title": "Beurre de cacahu\u00e8tes (sucr\u00e9)",
+        "title": "Beurre de cacahuètes (sucré)",
         "alergenesIng": [
             "Arachides"
         ],
         "ingType": "autres"
     },
     {
-        "title": "Saucisse v\u00e9gane",
+        "title": "Saucisse végane",
         "ingType": "autres"
     },
     {
-        "title": "Prot\u00e9ines de soja",
+        "title": "Protéines de soja",
         "alergenesIng": [
             "Soja"
         ],
@@ -2335,11 +2336,11 @@
         "ingType": "autres"
     },
     {
-        "title": "Concentr\u00e9 de tomate",
+        "title": "Concentré de tomate",
         "ingType": "autres"
     },
     {
-        "title": "Feuille de g\u00e9latine",
+        "title": "Feuille de gélatine",
         "ingType": "autres"
     },
     {
@@ -2389,16 +2390,16 @@
     },
     {
         "alergenesIng": [
-            "S\u00e9same"
+            "Sésame"
         ],
-        "title": "Pur\u00e9e de s\u00e9same noir",
+        "title": "Purée de sésame noir",
         "vegan": true,
         "vegetarien": true,
         "ingType": "autres"
     },
     {
         "alergenesIng": [
-            "S\u00e9same"
+            "Sésame"
         ],
         "title": "Tahin",
         "ingType": "autres"
@@ -2428,7 +2429,7 @@
     },
     {
         "pFrais": true,
-        "title": "Cr\u00e8me fra\u00eeche \u00e9paisse enti\u00e8re",
+        "title": "Crème fra\u00eeche épaisse entière",
         "alergenesIng": [
             "Produit laitier"
         ],
@@ -2441,7 +2442,7 @@
     },
     {
         "pFrais": true,
-        "title": "Margarine v\u00e9g\u00e9tale sp\u00e9cial cuisson",
+        "title": "Margarine végétale spécial cuisson",
         "ingType": "frais"
     },
     {
@@ -2467,7 +2468,7 @@
     },
     {
         "pFrais": true,
-        "title": "Cr\u00e8me florette",
+        "title": "Crème florette",
         "alergenesIng": [
             "Produit laitier"
         ],
@@ -2534,7 +2535,7 @@
         "ingType": "frais"
     },
     {
-        "title": "B\u00fbche de ch\u00e8vre",
+        "title": "B\u00fbche de chèvre",
         "vegetarien": true,
         "vegan": false,
         "alergenesIng": [
@@ -2574,7 +2575,7 @@
         "ingType": "frais"
     },
     {
-        "title": "Comt\u00e9",
+        "title": "Comté",
         "vegetarien": true,
         "vegan": false,
         "alergenesIng": [
@@ -2584,7 +2585,7 @@
         "ingType": "frais"
     },
     {
-        "title": "Cr\u00e8me Chantilly",
+        "title": "Crème Chantilly",
         "vegetarien": true,
         "vegan": false,
         "alergenesIng": [
@@ -2594,7 +2595,7 @@
         "ingType": "frais"
     },
     {
-        "title": "Cr\u00e8me \u00e9paisse",
+        "title": "Crème épaisse",
         "vegetarien": true,
         "vegan": false,
         "alergenesIng": [
@@ -2642,7 +2643,7 @@
         "ingType": "frais"
     },
     {
-        "title": "Fromage \u00e0 raclette",
+        "title": "Fromage à raclette",
         "vegetarien": true,
         "vegan": false,
         "alergenesIng": [
@@ -2662,7 +2663,7 @@
         "ingType": "frais"
     },
     {
-        "title": "Fromage de ch\u00e8vre frais",
+        "title": "Fromage de chèvre frais",
         "vegetarien": true,
         "vegan": false,
         "alergenesIng": [
@@ -2682,7 +2683,7 @@
         "ingType": "frais"
     },
     {
-        "title": "Fromage r\u00e2p\u00e9",
+        "title": "Fromage r\u00e2pé",
         "vegetarien": true,
         "vegan": false,
         "alergenesIng": [
@@ -2702,7 +2703,7 @@
         "ingType": "frais"
     },
     {
-        "title": "Gruy\u00e8re",
+        "title": "Gruyère",
         "vegetarien": true,
         "vegan": false,
         "alergenesIng": [
@@ -2712,7 +2713,7 @@
         "ingType": "frais"
     },
     {
-        "title": "Yaourt V\u00e9g\u00e9tal",
+        "title": "Yaourt Végétal",
         "alergenesIng": [],
         "vegan": true,
         "vegetarien": true,
@@ -2730,7 +2731,7 @@
         "ingType": "frais"
     },
     {
-        "title": "Cr\u00e8me glac\u00e9e",
+        "title": "Crème glacée",
         "vegetarien": true,
         "alergenesIng": [
             "Produit laitier"
@@ -2739,7 +2740,7 @@
         "ingType": "frais"
     },
     {
-        "title": "Cr\u00e8me glac\u00e9e chocolat",
+        "title": "Crème glacée chocolat",
         "vegetarien": true,
         "alergenesIng": [
             "Produit laitier"
@@ -2748,7 +2749,7 @@
         "ingType": "frais"
     },
     {
-        "title": "Cr\u00e8me glac\u00e9e fraise",
+        "title": "Crème glacée fraise",
         "vegetarien": true,
         "alergenesIng": [
             "Produit laitier"
@@ -2890,7 +2891,7 @@
     {
         "title": "Yaourt d'Amande",
         "alergenesIng": [
-            "Fruit \u00e0 coque"
+            "Fruit à coque"
         ],
         "vegan": true,
         "pFrais": true,
@@ -3031,7 +3032,7 @@
     {
         "title": "Yaourt d'Amande",
         "alergenesIng": [
-            "Fruit \u00e0 coque"
+            "Fruit à coque"
         ],
         "vegan": true,
         "pFrais": true,
@@ -3039,7 +3040,7 @@
         "ingType": "frais"
     },
     {
-        "title": "Cr\u00e8me glac\u00e9e vanille",
+        "title": "Crème glacée vanille",
         "vegetarien": true,
         "alergenesIng": [
             "Produit laitier"
@@ -3052,14 +3053,14 @@
         "ingType": "lof"
     },
     {
-        "title": "Farine de bl\u00e9",
+        "title": "Farine de blé",
         "alergenesIng": [
             "Gluten"
         ],
         "ingType": "lof"
     },
     {
-        "title": "Lait demi-\u00e9cr\u00e9m\u00e9",
+        "title": "Lait demi-écrémé",
         "alergenesIng": [
             "Produit laitier"
         ],
@@ -3069,7 +3070,7 @@
         "ingType": "lof"
     },
     {
-        "title": "Lait \u00e9cr\u00e9m\u00e9",
+        "title": "Lait écrémé",
         "alergenesIng": [
             "Produit laitier"
         ],
@@ -3093,7 +3094,7 @@
         "ingType": "lof"
     },
     {
-        "title": "F\u00e9cule de tapioca",
+        "title": "Fécule de tapioca",
         "ingType": "lof"
     },
     {
@@ -3123,18 +3124,18 @@
         "ingType": "lof"
     },
     {
-        "title": "Lait de soja \u00e0 la vanille",
+        "title": "Lait de soja à la vanille",
         "alergenesIng": [
             "Soja"
         ],
         "ingType": "lof"
     },
     {
-        "title": "Huile de coco d\u00e9sodoris\u00e9e",
+        "title": "Huile de coco désodorisée",
         "ingType": "lof"
     },
     {
-        "title": "Cr\u00e8me fraiche liquide enti\u00e8re",
+        "title": "Crème fraiche liquide entière",
         "alergenesIng": [
             "Produit laitier"
         ],
@@ -3145,7 +3146,7 @@
         "ingType": "lof"
     },
     {
-        "title": "Lait concentr\u00e9 (non sucr\u00e9)",
+        "title": "Lait concentré (non sucré)",
         "alergenesIng": [
             "Produit laitier"
         ],
@@ -3171,11 +3172,11 @@
         "ingType": "lof"
     },
     {
-        "title": "Levure boulang\u00e8re sans gluten",
+        "title": "Levure boulangère sans gluten",
         "ingType": "lof"
     },
     {
-        "title": "Levure boulang\u00e8re",
+        "title": "Levure boulangère",
         "ingType": "lof"
     },
     {
@@ -3191,7 +3192,7 @@
         "ingType": "lof"
     },
     {
-        "title": "Lait v\u00e9g\u00e9tal (au choix)",
+        "title": "Lait végétal (au choix)",
         "ingType": "lof"
     },
     {
@@ -3199,27 +3200,27 @@
         "ingType": "lof"
     },
     {
-        "title": "Cr\u00e8me florette",
+        "title": "Crème florette",
         "alergenesIng": [
             "Produit laitier"
         ],
         "ingType": "lof"
     },
     {
-        "title": "Cr\u00e8me soja",
+        "title": "Crème soja",
         "alergenesIng": [
             "Soja"
         ],
         "ingType": "lof"
     },
     {
-        "title": "Cr\u00e8me d'amande",
+        "title": "Crème d'amande",
         "vegan": true,
         "vegetarien": true,
         "ingType": "lof"
     },
     {
-        "title": "Cr\u00e8me liquide",
+        "title": "Crème liquide",
         "vegetarien": true,
         "vegan": false,
         "alergenesIng": [
@@ -3228,7 +3229,7 @@
         "ingType": "lof"
     },
     {
-        "title": "Cr\u00e8me V\u00e9g\u00e9tale",
+        "title": "Crème Végétale",
         "vegan": true,
         "vegetarien": true,
         "alergenesIng": [
@@ -3244,7 +3245,7 @@
         "ingType": "lof"
     },
     {
-        "title": "Farine d'\u00e9peautre",
+        "title": "Farine d'épeautre",
         "alergenesIng": [
             "Gluten"
         ],
@@ -3258,11 +3259,11 @@
         "ingType": "lof"
     },
     {
-        "title": "Farine d\u2019amarante",
+        "title": "Farine d'amarante",
         "ingType": "lof"
     },
     {
-        "title": "Farine de bl\u00e9 noir (sarrasin)",
+        "title": "Farine de blé noir (sarrasin)",
         "ingType": "lof"
     },
     {
@@ -3285,7 +3286,7 @@
         "ingType": "lof"
     },
     {
-        "title": "Farine de ma\u00efs",
+        "title": "Farine de maïs",
         "ingType": "lof"
     },
     {
@@ -3319,7 +3320,7 @@
         "ingType": "lof"
     },
     {
-        "title": "F\u00e9cule de ma\u00efs (Ma\u00efzena)",
+        "title": "Fécule de maïs (Maïzena)",
         "ingType": "lof"
     },
     {
@@ -3355,7 +3356,7 @@
     {
         "title": "huile de noisette",
         "alergenesIng": [
-            "Fruit \u00e0 coque"
+            "Fruit à coque"
         ],
         "vegan": true,
         "vegetarien": true,
@@ -3364,29 +3365,29 @@
     {
         "title": "huile de noix",
         "alergenesIng": [
-            "Fruit \u00e0 coque"
+            "Fruit à coque"
         ],
         "vegan": true,
         "vegetarien": true,
         "ingType": "lof"
     },
     {
-        "title": "huile de p\u00e9pins de courge",
+        "title": "huile de pépins de courge",
         "vegan": true,
         "vegetarien": true,
         "ingType": "lof"
     },
     {
-        "title": "huile de p\u00e9pins de raisin",
+        "title": "huile de pépins de raisin",
         "vegan": true,
         "vegetarien": true,
         "ingType": "lof"
     },
     {
-        "title": "huile de s\u00e9same",
+        "title": "huile de sésame",
         "vegan": true,
         "alergenesIng": [
-            "S\u00e9same"
+            "Sésame"
         ],
         "vegetarien": true,
         "ingType": "lof"
@@ -3398,24 +3399,24 @@
         "ingType": "lof"
     },
     {
-        "title": "lait (ch\u00e8vres)",
+        "title": "lait (chèvres)",
         "ingType": "lof"
     },
     {
-        "title": "Lait concentr\u00e9 sucr\u00e9",
+        "title": "Lait concentré sucré",
         "vegetarien": true,
         "ingType": "lof"
     },
     {
-        "title": "lait d'\u00e9peautre",
+        "title": "lait d'épeautre",
         "ingType": "lof"
     },
     {
-        "title": "lait d\u2019amande",
+        "title": "lait d'amande",
         "ingType": "lof"
     },
     {
-        "title": "lait d\u2019avoine",
+        "title": "lait d'avoine",
         "ingType": "lof"
     },
     {
@@ -3437,7 +3438,7 @@
         "ingType": "lof"
     },
     {
-        "title": "Lait demi-\u00e9cr\u00e9m\u00e9",
+        "title": "Lait demi-écrémé",
         "alergenesIng": [
             "Produit laitier"
         ],
@@ -3447,7 +3448,7 @@
         "ingType": "lof"
     },
     {
-        "title": "Lait \u00e9cr\u00e9m\u00e9",
+        "title": "Lait écrémé",
         "alergenesIng": [
             "Produit laitier"
         ],
@@ -3577,23 +3578,23 @@
     {
         "title": "Amande",
         "alergenesIng": [
-            "Fruit \u00e0 coque"
+            "Fruit à coque"
         ],
         "vegan": true,
         "vegetarien": true,
         "ingType": "sec"
     },
     {
-        "title": "Amandes effil\u00e9es",
+        "title": "Amandes effilées",
         "alergenesIng": [
-            "Fruit \u00e0 coque"
+            "Fruit à coque"
         ],
         "vegan": true,
         "vegetarien": true,
         "ingType": "sec"
     },
     {
-        "title": "Bl\u00e9",
+        "title": "Blé",
         "alergenesIng": [
             "Gluten"
         ],
@@ -3609,7 +3610,7 @@
     },
     {
         "alergene": true,
-        "title": "Cacahu\u00e8te",
+        "title": "Cacahuète",
         "vegan": true,
         "vegetarien": true,
         "alergenesIng": [
@@ -3624,7 +3625,7 @@
         "ingType": "sec"
     },
     {
-        "title": "F\u00eaves",
+        "title": "Fêves",
         "vegan": true,
         "vegetarien": true,
         "ingType": "sec"
@@ -3663,7 +3664,7 @@
         "ingType": "sec"
     },
     {
-        "title": "Ma\u00efs",
+        "title": "Maïs",
         "vegan": true,
         "vegetarien": true,
         "ingType": "sec"
@@ -3671,7 +3672,7 @@
     {
         "title": "Noisette",
         "alergenesIng": [
-            "Fruit \u00e0 coque"
+            "Fruit à coque"
         ],
         "vegan": true,
         "vegetarien": true,
@@ -3680,7 +3681,7 @@
     {
         "title": "Noix de cajou",
         "alergenesIng": [
-            "Fruit \u00e0 coque"
+            "Fruit à coque"
         ],
         "vegan": true,
         "vegetarien": true,
@@ -3692,7 +3693,7 @@
         "vegan": true,
         "vegetarien": true,
         "alergenesIng": [
-            "Fruit \u00e0 coque"
+            "Fruit à coque"
         ],
         "ingType": "sec"
     },
@@ -3701,16 +3702,16 @@
         "vegan": true,
         "vegetarien": true,
         "alergenesIng": [
-            "Fruit \u00e0 coque"
+            "Fruit à coque"
         ],
         "ingType": "sec"
     },
     {
-        "title": "Noix de p\u00e9can",
+        "title": "Noix de pécan",
         "vegan": true,
         "vegetarien": true,
         "alergenesIng": [
-            "Fruit \u00e0 coque"
+            "Fruit à coque"
         ],
         "ingType": "sec"
     },
@@ -3741,14 +3742,14 @@
     {
         "title": "Pignon de pin",
         "alergenesIng": [
-            "Fruit \u00e0 coque"
+            "Fruit à coque"
         ],
         "vegan": true,
         "vegetarien": true,
         "ingType": "sec"
     },
     {
-        "title": "Pois cass\u00e9s",
+        "title": "Pois cassés",
         "vegan": true,
         "vegetarien": true,
         "ingType": "sec"
@@ -3760,7 +3761,7 @@
         "ingType": "sec"
     },
     {
-        "title": "Polenta (semoule de ma\u00efs)",
+        "title": "Polenta (semoule de maïs)",
         "vegan": true,
         "vegetarien": true,
         "ingType": "sec"
@@ -3784,7 +3785,7 @@
         "ingType": "sec"
     },
     {
-        "title": "Semoule grosse (bl\u00e9)",
+        "title": "Semoule grosse (blé)",
         "alergenesIng": [
             "Gluten"
         ],
@@ -3793,7 +3794,7 @@
         "ingType": "sec"
     },
     {
-        "title": "Semoule moyenne (bl\u00e9)",
+        "title": "Semoule moyenne (blé)",
         "alergenesIng": [
             "Gluten"
         ],
@@ -3802,7 +3803,7 @@
         "ingType": "sec"
     },
     {
-        "title": "Semoule fine (bl\u00e9)",
+        "title": "Semoule fine (blé)",
         "alergenesIng": [
             "Gluten"
         ],
@@ -3839,11 +3840,11 @@
         "ingType": "epices"
     },
     {
-        "title": "Algue wakam\u00e9 s\u00e9ch\u00e9e",
+        "title": "Algue wakamé séchée",
         "ingType": "epices"
     },
     {
-        "title": "Algue kombu s\u00e9ch\u00e9e",
+        "title": "Algue kombu séchée",
         "ingType": "epices"
     },
     {
@@ -3875,7 +3876,7 @@
         "ingType": "epices"
     },
     {
-        "title": "Galanga s\u00e9ch\u00e9",
+        "title": "Galanga séché",
         "ingType": "epices"
     },
     {
@@ -3900,7 +3901,7 @@
         "ingType": "epices"
     },
     {
-        "title": "Pur\u00e9e d'ail noir",
+        "title": "Purée d'ail noir",
         "ingType": "epices"
     },
     {
@@ -3958,7 +3959,7 @@
     {
         "title": "Zaatar (zathar)",
         "alergenesIng": [
-            "S\u00e9same"
+            "Sésame"
         ],
         "ingType": "epices"
     },
@@ -3990,7 +3991,7 @@
         "ingType": "epices"
     },
     {
-        "title": "m\u00e9lange 4 \u00e9pices",
+        "title": "mélange 4 épices",
         "ingType": "epices"
     },
     {
@@ -3998,7 +3999,7 @@
         "ingType": "epices"
     },
     {
-        "title": "Vinaigre de X\u00e9r\u00e8s",
+        "title": "Vinaigre de Xérès",
         "ingType": "epices"
     },
     {
@@ -4017,7 +4018,7 @@
         "ingType": "epices"
     },
     {
-        "title": "Menthe s\u00e9ch\u00e9e",
+        "title": "Menthe séchée",
         "ingType": "epices"
     },
     {
@@ -4041,7 +4042,7 @@
         "ingType": "epices"
     },
     {
-        "title": "Estragon s\u00e9ch\u00e9",
+        "title": "Estragon séché",
         "ingType": "epices"
     },
     {
@@ -4073,11 +4074,11 @@
         "ingType": "epices"
     },
     {
-        "title": "Bouillon de l\u00e9gumes",
+        "title": "Bouillon de légumes",
         "ingType": "epices"
     },
     {
-        "title": "Bouillon de l\u00e9gume (sans gluten)",
+        "title": "Bouillon de légume (sans gluten)",
         "ingType": "epices"
     },
     {
@@ -4097,7 +4098,7 @@
         "ingType": "epices"
     },
     {
-        "title": "Poivre de Jama\u00efque",
+        "title": "Poivre de Jamaïque",
         "ingType": "epices"
     },
     {
@@ -4109,11 +4110,11 @@
         "ingType": "epices"
     },
     {
-        "title": "Paprika fum\u00e9",
+        "title": "Paprika fumé",
         "ingType": "epices"
     },
     {
-        "title": "Sauce soja dark (fonc\u00e9)",
+        "title": "Sauce soja dark (foncé)",
         "alergenesIng": [
             "Soja"
         ],
@@ -4137,7 +4138,7 @@
         "ingType": "epices"
     },
     {
-        "title": "Anis \u00e9toil\u00e9",
+        "title": "Anis étoilé",
         "vegan": true,
         "vegetarien": true,
         "ingType": "epices"
@@ -4239,7 +4240,7 @@
         "ingType": "epices"
     },
     {
-        "title": "Gen\u00e9vrier",
+        "title": "Genévrier",
         "vegan": true,
         "vegetarien": true,
         "ingType": "epices"
@@ -4398,9 +4399,9 @@
     },
     {
         "alergene": true,
-        "title": "S\u00e9same dor\u00e9",
+        "title": "Sésame doré",
         "alergenesIng": [
-            "S\u00e9same"
+            "Sésame"
         ],
         "vegan": true,
         "vegetarien": true,
@@ -4408,9 +4409,9 @@
     },
     {
         "alergene": true,
-        "title": "S\u00e9same blanc",
+        "title": "Sésame blanc",
         "alergenesIng": [
-            "S\u00e9same"
+            "Sésame"
         ],
         "vegan": true,
         "vegetarien": true,
@@ -4418,9 +4419,9 @@
     },
     {
         "alergene": true,
-        "title": "S\u00e9same brun",
+        "title": "Sésame brun",
         "alergenesIng": [
-            "S\u00e9same"
+            "Sésame"
         ],
         "vegan": true,
         "vegetarien": true,
@@ -4428,9 +4429,9 @@
     },
     {
         "alergene": true,
-        "title": "S\u00e9same noir",
+        "title": "Sésame noir",
         "alergenesIng": [
-            "S\u00e9same"
+            "Sésame"
         ],
         "vegan": true,
         "vegetarien": true,

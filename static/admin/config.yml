@@ -220,52 +220,57 @@ collections:
       ################################
       ## ::: __Ingredients de la recette ##
 
+      - label: "Ingrédients"
+        name: "ing_list"
+        widget: "list"
+        allow_add: true
+        add_to_top: true
+        label_singular: "Ingrédient"
+        required: false
+        collapsed: true
+        summary: "{{fields.ing}}: {{fields.quantite}} {{fields.unit}}"
+        fields:
+          - label: "ingredient"
+            name: ing
+            widget: "relation"
+            collection: "ingredients_all"
+            search_fields: ["ingredients.*.title"]
+            value_field: "ingredients.*"
+            display_fields: ["ingredients.*.title"]
+            options_length: 800
+          - {
+              label: "Quantité (nombre)",
+              name: "quantite",
+              widget: "number",
+              min: 0.1,
+              value_type: "float",
+              required: false
+            }
+          - {
+              label: "Unité (quantité en...)",
+              name: "unit",
+              widget: "select",
+              options: ["Kg", "grammes", "unité", "litre",
+                  "ml",
+                  "c. à soupe",
+                  "c. à café",
+                  "pincées"],
+              required: false
+            }
+          - {
+              label: "commentaire",
+              name: "commentaire",
+              widget: "string",
+              required: false,
+              hint: "Si vous avez quelque-chose à préciser... ⚠ Ne sera pas afficher dans les listes de course"
+            }
+
       - label: "Ingredients"
         name: "ingredients"
         widget: "object"
         hint: "Vous pouvez retrouver la liste des ingrédients disponibles (et leur catégorie) sur la page https://enka-cookbook.pages.dev/ingredients/ . Pour ajouter des ingrédients qui ne sont pas encore répertorier, voir https://enka-cookbook.pages.dev/docs/editer/autres/"
         fields:
-          - label: "ingtest"
-            name: "ingtest"
-            widget: "list"
-            allow_add: true
-            add_to_top: true
-            label_singular: "Ingrédient"
-            required: false
-            collapsed: true
-            summary: "{{fields.title}}: {{fields.quantite}} {{fields.unit}}"
-            fields:
-              - label: "ingredient"
-                name: title
-                widget: "relation"
-                collection: "ingredients_index"
-                search_fields: ["ingredients.*.title"]
-                value_field: "ingredients.*.title"
-                options_length: 300
-              - {
-                  label: "Quantité (nombre)",
-                  name: "quantite",
-                  widget: "number",
-                  min: 0.1,
-                  value_type: "float",
-                }
-              - {
-                  label: "Unité (quantité en...)",
-                  name: "unit",
-                  widget: "select",
-                  options: ["Kg", "grammes", "unité", "litre",
-                      "ml",
-                      "c. à soupe",
-                      "c. à café",
-                      "pincées"],
-                }
-              - {
-                  label: "commentaire",
-                  name: "commentaire",
-                  widget: "string",
-                  required: false,
-                  hint: "Si vous avez quelque-chose à préciser... ⚠ Ne sera pas afficher dans les listes de course"
-                }
+      
           - label: "Sec (Legumineuses, céréales)"
             name: "sec"
             widget: "list"
@@ -878,10 +883,85 @@ collections:
 
   ###########################
   #  ::: ingredient collections
+  - name: "ingredients_all"
+    label: "Ingrédients"
+    files:
+      - name: ing-all
+        label: ing-all
+        file: data/ingredients/ingredients.json
+        format: json
+        fields:
+          - name: ingredients
+            label: ingredients
+            widget: list
+            allow_add: true
+            add_to_top: true
+            fields:
+              - label: "Nom"
+                name: "title"
+                widget: "string"
+                hint: "Ne peut contenir que des lettres, des chiffres, des parenthèses, des tirets (-), virgules et apostrophes"  
+                pattern:
+                  [
+                    '^[a-zA-Z0-9 éèëïïùàâôêûç \u002C\u0027\u2018\u2019\u00C0-\u00FF()\-]+$',
+                    "Contient un caractère spécial interdit. Ne peut contenir que des lettres, des chiffres, des parenthèses ou des tirets (-), virgules et apostrophes.",
+                  ]
+              - name: "pFrais"
+                label: "Frais ?"
+                widget: "boolean"
+                default: true
+                hint: "Décocher s'il s'agit de légumes/fruits séchés, confits, en conserves..."
+              - label: "Saisons"
+                name: "saisons"
+                hint: "...si l'ingrédient se trouvent surtout à certaines saisons"
+                widget: "select"
+                multiple: true
+                required: false
+                options:
+                  - { label: "Printemps", value: "printemps" }
+                  - { label: "Eté", value: "ete" }
+                  - { label: "Automne", value: "automne" }
+                  - { label: "Hiver", value: "hiver" }
+
 
   - name: "ingredients_index"
     label: "Ingrédients"
     files:
+      - name: ing-all
+        label: ing-all
+        file: data/ingredients/ingredients.json
+        format: json
+        fields:
+          - name: ingredients
+            label: ingredients
+            widget: list
+            fields:
+              - label: "Title"
+                name: "title"
+                widget: "string"
+                hint: "Ne peut contenir que des lettres, des chiffres, des parenthèses, des tirets (-), virgules et apostrophes"  
+                pattern:
+                  [
+                    '^[a-zA-Z0-9 éèëïïùàâôêûç \u002C\u0027\u2018\u2019\u00C0-\u00FF()\-]+$',
+                    "Contient un caractère spécial interdit. Ne peut contenir que des lettres, des chiffres, des parenthèses ou des tirets (-), virgules et apostrophes.",
+                  ]
+              - name: "pFrais"
+                label: "Frais ?"
+                widget: "boolean"
+                default: true
+                hint: "Décocher s'il s'agit de légumes/fruits séchés, confits, en conserves..."
+              - label: "Saisons"
+                name: "saisons"
+                hint: "...si l'ingrédient se trouvent surtout à certaines saisons"
+                widget: "select"
+                multiple: true
+                required: false
+                options:
+                  - { label: "Printemps", value: "printemps" }
+                  - { label: "Eté", value: "ete" }
+                  - { label: "Automne", value: "automne" }
+                  - { label: "Hiver", value: "hiver" }
+
       - name: ingredients_legumes
         label: Légumes et Fruits
         file: data/ingredients/legumes.json
