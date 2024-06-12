@@ -224,6 +224,47 @@ collections:
         widget: "object"
         hint: "Vous pouvez retrouver la liste des ingrédients disponibles (et leur catégorie) sur la page https://enka-cookbook.pages.dev/ingredients/ . Pour ajouter des ingrédients qui ne sont pas encore répertorier, voir https://enka-cookbook.pages.dev/docs/editer/autres/"
         fields:
+          - label: "ingtest"
+            name: "ingtest"
+            widget: "list"
+            allow_add: true
+            add_to_top: true
+            label_singular: "Ingrédient"
+            required: false
+            collapsed: true
+            summary: "{{fields.title}}: {{fields.quantite}} {{fields.unit}}"
+            fields:
+              - label: "ingredient"
+                name: title
+                widget: "relation"
+                collection: "ingredients_index"
+                search_fields: ["ingredients.*.title"]
+                value_field: "ingredients.*.title"
+                options_length: 300
+              - {
+                  label: "Quantité (nombre)",
+                  name: "quantite",
+                  widget: "number",
+                  min: 0.1,
+                  value_type: "float",
+                }
+              - {
+                  label: "Unité (quantité en...)",
+                  name: "unit",
+                  widget: "select",
+                  options: ["Kg", "grammes", "unité", "litre",
+                      "ml",
+                      "c. à soupe",
+                      "c. à café",
+                      "pincées"],
+                }
+              - {
+                  label: "commentaire",
+                  name: "commentaire",
+                  widget: "string",
+                  required: false,
+                  hint: "Si vous avez quelque-chose à préciser... ⚠ Ne sera pas afficher dans les listes de course"
+                }
           - label: "Sec (Legumineuses, céréales)"
             name: "sec"
             widget: "list"
