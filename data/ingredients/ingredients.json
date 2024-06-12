@@ -1,0 +1,4475 @@
+{ "ingredients": [
+    {
+        "title": "Agneau",
+        "alergenesIng": [
+            "Viande"
+        ],
+        "pFrais": true,
+        "ingType": "animaux"
+    },
+    {
+        "title": "Andouille (charcuterie)",
+        "alergenesIng": [
+            "Viande",
+            "Porc"
+        ],
+        "pFrais": true,
+        "ingType": "animaux"
+    },
+    {
+        "title": "Andouillette (charcuterie)",
+        "alergenesIng": [
+            "Viande",
+            "Porc"
+        ],
+        "pFrais": true,
+        "ingType": "animaux"
+    },
+    {
+        "title": "Anguille (poisson)",
+        "alergenesIng": [
+            "Poisson"
+        ],
+        "pFrais": true,
+        "ingType": "animaux"
+    },
+    {
+        "title": "Bacon (charcuterie)",
+        "alergenesIng": [
+            "Viande",
+            "Porc"
+        ],
+        "pFrais": true,
+        "ingType": "animaux"
+    },
+    {
+        "title": "Bar (poisson)",
+        "alergenesIng": [
+            "Poisson"
+        ],
+        "pFrais": true,
+        "ingType": "animaux"
+    },
+    {
+        "title": "Baudroie (poisson)",
+        "alergenesIng": [
+            "Poisson"
+        ],
+        "pFrais": true,
+        "ingType": "animaux"
+    },
+    {
+        "title": "Bavette (boeuf)",
+        "alergenesIng": [
+            "Viande"
+        ],
+        "pFrais": true,
+        "ingType": "animaux"
+    },
+    {
+        "title": "Biche (volaille et gibier)",
+        "alergenesIng": [
+            "Viande"
+        ],
+        "pFrais": true,
+        "ingType": "animaux"
+    },
+    {
+        "title": "Bifteck (boeuf)",
+        "alergenesIng": [
+            "Viande"
+        ],
+        "pFrais": true,
+        "ingType": "animaux"
+    },
+    {
+        "title": "Bigorneaux (fruits de mer)",
+        "alergenesIng": [
+            "Mollusque"
+        ],
+        "pFrais": true,
+        "ingType": "animaux"
+    },
+    {
+        "title": "Blanc de poulet (volaille et gibier)",
+        "alergenesIng": [
+            "Viande"
+        ],
+        "pFrais": true,
+        "ingType": "animaux"
+    },
+    {
+        "title": "Boudin blanc (charcuterie)",
+        "alergenesIng": [
+            "Viande",
+            "Porc"
+        ],
+        "pFrais": true,
+        "ingType": "animaux"
+    },
+    {
+        "title": "Boudin noir (charcuterie)",
+        "alergenesIng": [
+            "Viande",
+            "Porc"
+        ],
+        "pFrais": true,
+        "ingType": "animaux"
+    },
+    {
+        "title": "Bourguignon (boeuf)",
+        "alergenesIng": [
+            "Viande"
+        ],
+        "pFrais": true,
+        "ingType": "animaux"
+    },
+    {
+        "title": "Brochet (poisson)",
+        "alergenesIng": [
+            "Poisson"
+        ],
+        "pFrais": true,
+        "ingType": "animaux"
+    },
+    {
+        "title": "Bulot (fruits de mer)",
+        "alergenesIng": [
+            "Mollusque"
+        ],
+        "pFrais": true,
+        "ingType": "animaux"
+    },
+    {
+        "title": "Cabillaud (poisson)",
+        "alergenesIng": [
+            "Poisson"
+        ],
+        "pFrais": true,
+        "ingType": "animaux"
+    },
+    {
+        "title": "Caille (volaille et gibier)",
+        "alergenesIng": [
+            "Viande"
+        ],
+        "pFrais": true,
+        "ingType": "animaux"
+    },
+    {
+        "title": "Calamar (fruits de mer)",
+        "alergenesIng": [
+            "Crustac\u00e9"
+        ],
+        "pFrais": true,
+        "ingType": "animaux"
+    },
+    {
+        "title": "Canard (volaille et gibier)",
+        "alergenesIng": [
+            "Viande"
+        ],
+        "pFrais": true,
+        "ingType": "animaux"
+    },
+    {
+        "title": "Carpe (poisson)",
+        "alergenesIng": [
+            "Poisson"
+        ],
+        "pFrais": true,
+        "ingType": "animaux"
+    },
+    {
+        "title": "Carrelet (poisson)",
+        "alergenesIng": [
+            "Poisson"
+        ],
+        "pFrais": true,
+        "ingType": "animaux"
+    },
+    {
+        "title": "Cerises griottes (abats)",
+        "alergenesIng": [
+            "Viande"
+        ],
+        "pFrais": true,
+        "ingType": "animaux"
+    },
+    {
+        "title": "Cervelas (charcuterie)",
+        "alergenesIng": [
+            "Viande",
+            "Porc"
+        ],
+        "pFrais": true,
+        "ingType": "animaux"
+    },
+    {
+        "title": "Cervelle (abats)",
+        "alergenesIng": [
+            "Viande"
+        ],
+        "pFrais": true,
+        "ingType": "animaux"
+    },
+    {
+        "title": "Chair \u00e0 saucisse (charcuterie)",
+        "alergenesIng": [
+            "Viande",
+            "Porc"
+        ],
+        "pFrais": true,
+        "ingType": "animaux"
+    },
+    {
+        "title": "Chevreuil (volaille et gibier)",
+        "alergenesIng": [
+            "Viande"
+        ],
+        "pFrais": true,
+        "ingType": "animaux"
+    },
+    {
+        "title": "Chorizo (charcuterie)",
+        "alergenesIng": [
+            "Viande",
+            "Porc"
+        ],
+        "pFrais": true,
+        "ingType": "animaux"
+    },
+    {
+        "title": "Coeur (abats)",
+        "alergenesIng": [
+            "Viande"
+        ],
+        "pFrais": true,
+        "ingType": "animaux"
+    },
+    {
+        "title": "Colin (poisson)",
+        "alergenesIng": [
+            "Poisson"
+        ],
+        "pFrais": true,
+        "ingType": "animaux"
+    },
+    {
+        "title": "Collier (agneau)",
+        "alergenesIng": [
+            "Viande"
+        ],
+        "pFrais": true,
+        "ingType": "animaux"
+    },
+    {
+        "title": "Collier (blanquette) (veau)",
+        "alergenesIng": [
+            "Viande"
+        ],
+        "pFrais": true,
+        "ingType": "animaux"
+    },
+    {
+        "title": "Coppa (charcuterie)",
+        "alergenesIng": [
+            "Viande",
+            "Porc"
+        ],
+        "pFrais": true,
+        "ingType": "animaux"
+    },
+    {
+        "title": "Coque (fruits de mer)",
+        "alergenesIng": [
+            "Mollusque"
+        ],
+        "pFrais": true,
+        "ingType": "animaux"
+    },
+    {
+        "title": "C\u00f4te (agneau)",
+        "alergenesIng": [
+            "Viande"
+        ],
+        "pFrais": true,
+        "ingType": "animaux"
+    },
+    {
+        "title": "C\u00f4te (veau)",
+        "alergenesIng": [
+            "Viande"
+        ],
+        "pFrais": true,
+        "ingType": "animaux"
+    },
+    {
+        "title": "C\u00f4te \u00e9chine (porc)",
+        "alergenesIng": [
+            "Porc"
+        ],
+        "pFrais": true,
+        "ingType": "animaux"
+    },
+    {
+        "title": "C\u00f4te premi\u00e8re (porc)",
+        "alergenesIng": [
+            "Porc"
+        ],
+        "pFrais": true,
+        "ingType": "animaux"
+    },
+    {
+        "title": "C\u00f4telette (agneau)",
+        "alergenesIng": [
+            "Viande"
+        ],
+        "pFrais": true,
+        "ingType": "animaux"
+    },
+    {
+        "title": "C\u00f4telette (porc)",
+        "alergenesIng": [
+            "Porc"
+        ],
+        "pFrais": true,
+        "ingType": "animaux"
+    },
+    {
+        "title": "Crabe (fruits de mer)",
+        "alergenesIng": [
+            "Crustac\u00e9"
+        ],
+        "pFrais": true,
+        "ingType": "animaux"
+    },
+    {
+        "title": "Crevette (fruits de mer)",
+        "alergenesIng": [
+            "Crustac\u00e9"
+        ],
+        "pFrais": true,
+        "ingType": "animaux"
+    },
+    {
+        "title": "Cuisse de dinde (volaille et gibier)",
+        "alergenesIng": [
+            "Viande"
+        ],
+        "pFrais": true,
+        "ingType": "animaux"
+    },
+    {
+        "title": "Cuisse de poulet (volaille et gibier)",
+        "alergenesIng": [
+            "Viande"
+        ],
+        "pFrais": true,
+        "ingType": "animaux"
+    },
+    {
+        "title": "Dindonneau (volaille et gibier)",
+        "alergenesIng": [
+            "Viande"
+        ],
+        "pFrais": true,
+        "ingType": "animaux"
+    },
+    {
+        "title": "Dorade (poisson)",
+        "alergenesIng": [
+            "Poisson"
+        ],
+        "pFrais": true,
+        "ingType": "animaux"
+    },
+    {
+        "title": "\u00e9chine (porc)",
+        "alergenesIng": [
+            "Porc"
+        ],
+        "pFrais": true,
+        "ingType": "animaux"
+    },
+    {
+        "title": "\u00e9glefin ou aiglefin (poisson)",
+        "alergenesIng": [
+            "Poisson"
+        ],
+        "pFrais": true,
+        "ingType": "animaux"
+    },
+    {
+        "title": "Eminc\u00e9s de poulet (volaille et gibier)",
+        "alergenesIng": [
+            "Viande"
+        ],
+        "pFrais": true,
+        "ingType": "animaux"
+    },
+    {
+        "title": "Entrec\u00f4te (boeuf)",
+        "alergenesIng": [
+            "Viande"
+        ],
+        "pFrais": true,
+        "ingType": "animaux"
+    },
+    {
+        "title": "\u00e9paule (agneau)",
+        "alergenesIng": [
+            "Viande"
+        ],
+        "pFrais": true,
+        "ingType": "animaux"
+    },
+    {
+        "title": "\u00e9paule (veau)",
+        "alergenesIng": [
+            "Viande"
+        ],
+        "pFrais": true,
+        "ingType": "animaux"
+    },
+    {
+        "title": "\u00e9paule cuite d\u00e9graiss\u00e9e (porc)",
+        "alergenesIng": [
+            "Porc"
+        ],
+        "pFrais": true,
+        "ingType": "animaux"
+    },
+    {
+        "title": "\u00e9perlan (poisson)",
+        "alergenesIng": [
+            "Poisson"
+        ],
+        "pFrais": true,
+        "ingType": "animaux"
+    },
+    {
+        "title": "Escalope (veau)",
+        "alergenesIng": [
+            "Viande"
+        ],
+        "pFrais": true,
+        "ingType": "animaux"
+    },
+    {
+        "title": "Escalope de dinde (volaille et gibier)",
+        "alergenesIng": [
+            "Viande"
+        ],
+        "pFrais": true,
+        "ingType": "animaux"
+    },
+    {
+        "title": "Escalope de poulet (volaille et gibier)",
+        "alergenesIng": [
+            "Viande"
+        ],
+        "pFrais": true,
+        "ingType": "animaux"
+    },
+    {
+        "title": "Espadon (poisson)",
+        "alergenesIng": [
+            "Poisson"
+        ],
+        "pFrais": true,
+        "ingType": "animaux"
+    },
+    {
+        "title": "Faisan (volaille et gibier)",
+        "alergenesIng": [
+            "Viande"
+        ],
+        "pFrais": true,
+        "ingType": "animaux"
+    },
+    {
+        "title": "Faux filet (boeuf)",
+        "alergenesIng": [
+            "Viande"
+        ],
+        "pFrais": true,
+        "ingType": "animaux"
+    },
+    {
+        "title": "Filet (veau)",
+        "alergenesIng": [
+            "Viande"
+        ],
+        "pFrais": true,
+        "ingType": "animaux"
+    },
+    {
+        "title": "Filet d'autruche (volaille et gibier)",
+        "alergenesIng": [
+            "Viande"
+        ],
+        "pFrais": true,
+        "ingType": "animaux"
+    },
+    {
+        "title": "Filet mignon (porc)",
+        "alergenesIng": [
+            "Porc"
+        ],
+        "pFrais": true,
+        "ingType": "animaux"
+    },
+    {
+        "title": "Flanchet (boeuf)",
+        "alergenesIng": [
+            "Viande"
+        ],
+        "pFrais": true,
+        "ingType": "animaux"
+    },
+    {
+        "title": "Fl\u00e9tan (poisson)",
+        "alergenesIng": [
+            "Poisson"
+        ],
+        "pFrais": true,
+        "ingType": "animaux"
+    },
+    {
+        "title": "Foie (abats)",
+        "alergenesIng": [
+            "Viande"
+        ],
+        "pFrais": true,
+        "ingType": "animaux"
+    },
+    {
+        "title": "Foie gras (charcuterie)",
+        "alergenesIng": [
+            "Viande"
+        ],
+        "pFrais": true,
+        "ingType": "animaux"
+    },
+    {
+        "title": "Gigot (agneau)",
+        "alergenesIng": [
+            "Viande"
+        ],
+        "pFrais": true,
+        "ingType": "animaux"
+    },
+    {
+        "title": "Hampe grill\u00e9e (boeuf)",
+        "alergenesIng": [
+            "Viande"
+        ],
+        "pFrais": true,
+        "ingType": "animaux"
+    },
+    {
+        "title": "Hareng (poisson)",
+        "alergenesIng": [
+            "Poisson"
+        ],
+        "pFrais": true,
+        "ingType": "animaux"
+    },
+    {
+        "title": "Homard (fruits de mer)",
+        "alergenesIng": [
+            "Crustac\u00e9"
+        ],
+        "pFrais": true,
+        "ingType": "animaux"
+    },
+    {
+        "title": "Hu\u00eftre (fruits de mer)",
+        "alergenesIng": [
+            "Mollusque"
+        ],
+        "pFrais": true,
+        "ingType": "animaux"
+    },
+    {
+        "title": "Jambon blanc (charcuterie)",
+        "alergenesIng": [
+            "Viande",
+            "Porc"
+        ],
+        "pFrais": true,
+        "ingType": "animaux"
+    },
+    {
+        "title": "Jambon cru (charcuterie)",
+        "alergenesIng": [
+            "Viande",
+            "Porc"
+        ],
+        "pFrais": true,
+        "ingType": "animaux"
+    },
+    {
+        "title": "Jambon de Bayonne (charcuterie)",
+        "alergenesIng": [
+            "Viande",
+            "Porc"
+        ],
+        "pFrais": true,
+        "ingType": "animaux"
+    },
+    {
+        "title": "Jambon de dinde (charcuterie)",
+        "alergenesIng": [
+            "Viande"
+        ],
+        "pFrais": true,
+        "ingType": "animaux"
+    },
+    {
+        "title": "Jambonneau (charcuterie)",
+        "alergenesIng": [
+            "Viande",
+            "Porc"
+        ],
+        "pFrais": true,
+        "ingType": "animaux"
+    },
+    {
+        "title": "Jarret (osso bucco) (veau)",
+        "alergenesIng": [
+            "Viande"
+        ],
+        "pFrais": true,
+        "ingType": "animaux"
+    },
+    {
+        "title": "Jarret pot au feu (boeuf)",
+        "alergenesIng": [
+            "Viande"
+        ],
+        "pFrais": true,
+        "ingType": "animaux"
+    },
+    {
+        "title": "Langouste (fruits de mer)",
+        "alergenesIng": [
+            "Crustac\u00e9"
+        ],
+        "pFrais": true,
+        "ingType": "animaux"
+    },
+    {
+        "title": "Langoustine (fruits de mer)",
+        "alergenesIng": [
+            "Crustac\u00e9"
+        ],
+        "pFrais": true,
+        "ingType": "animaux"
+    },
+    {
+        "title": "Langue de boeuf (abats)",
+        "alergenesIng": [
+            "Viande"
+        ],
+        "pFrais": true,
+        "ingType": "animaux"
+    },
+    {
+        "title": "Langue de veau (abats)",
+        "alergenesIng": [
+            "Viande"
+        ],
+        "pFrais": true,
+        "ingType": "animaux"
+    },
+    {
+        "title": "Lapin (volaille et gibier)",
+        "alergenesIng": [
+            "Viande"
+        ],
+        "pFrais": true,
+        "ingType": "animaux"
+    },
+    {
+        "title": "Lard (charcuterie)",
+        "alergenesIng": [
+            "Viande",
+            "Porc"
+        ],
+        "pFrais": true,
+        "ingType": "animaux"
+    },
+    {
+        "title": "Lardons (charcuterie)",
+        "alergenesIng": [
+            "Viande",
+            "Porc"
+        ],
+        "pFrais": true,
+        "ingType": "animaux"
+    },
+    {
+        "title": "Lieu (poisson)",
+        "alergenesIng": [
+            "Poisson"
+        ],
+        "pFrais": true,
+        "ingType": "animaux"
+    },
+    {
+        "title": "Li\u00e8vre (volaille et gibier)",
+        "alergenesIng": [
+            "Viande"
+        ],
+        "pFrais": true,
+        "ingType": "animaux"
+    },
+    {
+        "title": "Limande (poisson)",
+        "alergenesIng": [
+            "Poisson"
+        ],
+        "pFrais": true,
+        "ingType": "animaux"
+    },
+    {
+        "title": "Lotte (poisson)",
+        "alergenesIng": [
+            "Poisson"
+        ],
+        "pFrais": true,
+        "ingType": "animaux"
+    },
+    {
+        "title": "Magret de canard fum\u00e9 (charcuterie)",
+        "alergenesIng": [
+            "Viande"
+        ],
+        "pFrais": true,
+        "ingType": "animaux"
+    },
+    {
+        "title": "Maquereau (poisson)",
+        "alergenesIng": [
+            "Poisson"
+        ],
+        "pFrais": true,
+        "ingType": "animaux"
+    },
+    {
+        "title": "Merlan (poisson)",
+        "alergenesIng": [
+            "Poisson"
+        ],
+        "pFrais": true,
+        "ingType": "animaux"
+    },
+    {
+        "title": "Merlu (poisson)",
+        "alergenesIng": [
+            "Poisson"
+        ],
+        "pFrais": true,
+        "ingType": "animaux"
+    },
+    {
+        "title": "Mortadelle (charcuterie)",
+        "alergenesIng": [
+            "Viande",
+            "Porc"
+        ],
+        "pFrais": true,
+        "ingType": "animaux"
+    },
+    {
+        "title": "Morue (poisson)",
+        "alergenesIng": [
+            "Poisson"
+        ],
+        "pFrais": true,
+        "ingType": "animaux"
+    },
+    {
+        "title": "Moule (fruits de mer)",
+        "alergenesIng": [
+            "Crustac\u00e9"
+        ],
+        "pFrais": true,
+        "ingType": "animaux"
+    },
+    {
+        "title": "Mulet (poisson)",
+        "alergenesIng": [
+            "Poisson"
+        ],
+        "pFrais": true,
+        "ingType": "animaux"
+    },
+    {
+        "title": "Noix (veau)",
+        "alergenesIng": [
+            "Viande"
+        ],
+        "pFrais": true,
+        "ingType": "animaux"
+    },
+    {
+        "title": "Noix de Saint-Jacques (fruits de mer)",
+        "alergenesIng": [
+            "Mollusque"
+        ],
+        "pFrais": true,
+        "ingType": "animaux"
+    },
+    {
+        "title": "Oie (volaille et gibier)",
+        "alergenesIng": [
+            "Viande"
+        ],
+        "pFrais": true,
+        "ingType": "animaux"
+    },
+    {
+        "title": "Paleron, macreuse (boeuf)",
+        "alergenesIng": [
+            "Viande"
+        ],
+        "pFrais": true,
+        "ingType": "animaux"
+    },
+    {
+        "title": "Palourde (fruits de mer)",
+        "alergenesIng": [
+            "Mollusque"
+        ],
+        "pFrais": true,
+        "ingType": "animaux"
+    },
+    {
+        "title": "Pancetta (charcuterie)",
+        "alergenesIng": [
+            "Viande",
+            "Porc"
+        ],
+        "pFrais": true,
+        "ingType": "animaux"
+    },
+    {
+        "title": "P\u00e2t\u00e9 de campagne (charcuterie)",
+        "alergenesIng": [
+            "Viande",
+            "Porc"
+        ],
+        "pFrais": true,
+        "ingType": "animaux"
+    },
+    {
+        "title": "P\u00e2t\u00e9 de foie (charcuterie)",
+        "alergenesIng": [
+            "Viande",
+            "Porc"
+        ],
+        "pFrais": true,
+        "ingType": "animaux"
+    },
+    {
+        "title": "Paupiette (veau)",
+        "alergenesIng": [
+            "Viande"
+        ],
+        "pFrais": true,
+        "ingType": "animaux"
+    },
+    {
+        "title": "Pepperoni (charcuterie)",
+        "alergenesIng": [
+            "Viande",
+            "Porc"
+        ],
+        "pFrais": true,
+        "ingType": "animaux"
+    },
+    {
+        "title": "Perche (poisson)",
+        "alergenesIng": [
+            "Poisson"
+        ],
+        "pFrais": true,
+        "ingType": "animaux"
+    },
+    {
+        "title": "Petit sal\u00e9 (charcuterie)",
+        "alergenesIng": [
+            "Viande",
+            "Porc"
+        ],
+        "pFrais": true,
+        "ingType": "animaux"
+    },
+    {
+        "title": "Pigeon (volaille et gibier)",
+        "alergenesIng": [
+            "Viande"
+        ],
+        "pFrais": true,
+        "ingType": "animaux"
+    },
+    {
+        "title": "Pintade (volaille et gibier)",
+        "alergenesIng": [
+            "Viande"
+        ],
+        "pFrais": true,
+        "ingType": "animaux"
+    },
+    {
+        "title": "Poitrine (porc)",
+        "alergenesIng": [
+            "Porc"
+        ],
+        "pFrais": true,
+        "ingType": "animaux"
+    },
+    {
+        "title": "Poitrine (veau)",
+        "alergenesIng": [
+            "Viande"
+        ],
+        "pFrais": true,
+        "ingType": "animaux"
+    },
+    {
+        "title": "Pot au feu (boeuf)",
+        "alergenesIng": [
+            "Viande"
+        ],
+        "pFrais": true,
+        "ingType": "animaux"
+    },
+    {
+        "title": "Poule (volaille et gibier)",
+        "alergenesIng": [
+            "Viande"
+        ],
+        "pFrais": true,
+        "ingType": "animaux"
+    },
+    {
+        "title": "Poulet (volaille et gibier)",
+        "alergenesIng": [
+            "Viande"
+        ],
+        "pFrais": true,
+        "ingType": "animaux"
+    },
+    {
+        "title": "Poulet r\u00f4ti (volaille et gibier)",
+        "alergenesIng": [
+            "Viande"
+        ],
+        "pFrais": true,
+        "ingType": "animaux"
+    },
+    {
+        "title": "Prosciutto (charcuterie)",
+        "alergenesIng": [
+            "Viande",
+            "Porc"
+        ],
+        "pFrais": true,
+        "ingType": "animaux"
+    },
+    {
+        "title": "Queue bouillie (boeuf)",
+        "alergenesIng": [
+            "Viande"
+        ],
+        "pFrais": true,
+        "ingType": "animaux"
+    },
+    {
+        "title": "Raie (poisson)",
+        "alergenesIng": [
+            "Poisson"
+        ],
+        "pFrais": true,
+        "ingType": "animaux"
+    },
+    {
+        "title": "Rascasse (poisson)",
+        "alergenesIng": [
+            "Poisson"
+        ],
+        "pFrais": true,
+        "ingType": "animaux"
+    },
+    {
+        "title": "Rillettes d'oie (charcuterie)",
+        "alergenesIng": [
+            "Viande"
+        ],
+        "pFrais": true,
+        "ingType": "animaux"
+    },
+    {
+        "title": "Rillettes de canard (charcuterie)",
+        "alergenesIng": [
+            "Viande"
+        ],
+        "pFrais": true,
+        "ingType": "animaux"
+    },
+    {
+        "title": "Rillettes de porc (charcuterie)",
+        "alergenesIng": [
+            "Viande",
+            "Porc"
+        ],
+        "pFrais": true,
+        "ingType": "animaux"
+    },
+    {
+        "title": "Rillettes de thon",
+        "alergenesIng": [
+            "Poisson"
+        ],
+        "pFrais": true,
+        "ingType": "animaux"
+    },
+    {
+        "title": "Ris (abats)",
+        "alergenesIng": [
+            "Viande"
+        ],
+        "pFrais": true,
+        "ingType": "animaux"
+    },
+    {
+        "title": "Rognon boeuf (abats)",
+        "alergenesIng": [
+            "Viande"
+        ],
+        "pFrais": true,
+        "ingType": "animaux"
+    },
+    {
+        "title": "Rognons de porc (abats)",
+        "alergenesIng": [
+            "Viande"
+        ],
+        "pFrais": true,
+        "ingType": "animaux"
+    },
+    {
+        "title": "Rosbif (boeuf)",
+        "alergenesIng": [
+            "Viande"
+        ],
+        "pFrais": true,
+        "ingType": "animaux"
+    },
+    {
+        "title": "Rosette (charcuterie)",
+        "alergenesIng": [
+            "Viande",
+            "Porc"
+        ],
+        "pFrais": true,
+        "ingType": "animaux"
+    },
+    {
+        "title": "R\u00f4ti (porc)",
+        "alergenesIng": [
+            "Porc"
+        ],
+        "pFrais": true,
+        "ingType": "animaux"
+    },
+    {
+        "title": "R\u00f4ti (veau)",
+        "alergenesIng": [
+            "Viande"
+        ],
+        "pFrais": true,
+        "ingType": "animaux"
+    },
+    {
+        "title": "R\u00f4ti cuit (porc)",
+        "alergenesIng": [
+            "Porc"
+        ],
+        "pFrais": true,
+        "ingType": "animaux"
+    },
+    {
+        "title": "R\u00f4ti de dinde (volaille et gibier)",
+        "alergenesIng": [
+            "Viande"
+        ],
+        "pFrais": true,
+        "ingType": "animaux"
+    },
+    {
+        "title": "R\u00f4ti Orloff (veau)",
+        "alergenesIng": [
+            "Viande"
+        ],
+        "pFrais": true,
+        "ingType": "animaux"
+    },
+    {
+        "title": "Rouget (poisson)",
+        "alergenesIng": [
+            "Poisson"
+        ],
+        "pFrais": true,
+        "ingType": "animaux"
+    },
+    {
+        "title": "Roussette (poisson)",
+        "alergenesIng": [
+            "Poisson"
+        ],
+        "pFrais": true,
+        "ingType": "animaux"
+    },
+    {
+        "title": "Rumsteak (boeuf)",
+        "alergenesIng": [
+            "Viande"
+        ],
+        "pFrais": true,
+        "ingType": "animaux"
+    },
+    {
+        "title": "Salami (charcuterie)",
+        "alergenesIng": [
+            "Viande",
+            "Porc"
+        ],
+        "pFrais": true,
+        "ingType": "animaux"
+    },
+    {
+        "title": "Sandre (poisson)",
+        "alergenesIng": [
+            "Poisson"
+        ],
+        "pFrais": true,
+        "ingType": "animaux"
+    },
+    {
+        "title": "Sanglier (volaille et gibier)",
+        "alergenesIng": [
+            "Viande"
+        ],
+        "pFrais": true,
+        "ingType": "animaux"
+    },
+    {
+        "title": "Sardine (poisson)",
+        "alergenesIng": [
+            "Poisson"
+        ],
+        "pFrais": true,
+        "ingType": "animaux"
+    },
+    {
+        "title": "Saucisse (charcuterie)",
+        "alergenesIng": [
+            "Viande",
+            "Porc"
+        ],
+        "pFrais": true,
+        "ingType": "animaux"
+    },
+    {
+        "title": "Saucisson (charcuterie)",
+        "alergenesIng": [
+            "Viande",
+            "Porc"
+        ],
+        "pFrais": true,
+        "ingType": "animaux"
+    },
+    {
+        "title": "Saumon (poisson)",
+        "alergenesIng": [
+            "Poisson"
+        ],
+        "pFrais": true,
+        "ingType": "animaux"
+    },
+    {
+        "title": "Seiche (poisson)",
+        "alergenesIng": [
+            "Poisson"
+        ],
+        "pFrais": true,
+        "ingType": "animaux"
+    },
+    {
+        "title": "Sole (poisson)",
+        "alergenesIng": [
+            "Poisson"
+        ],
+        "pFrais": true,
+        "ingType": "animaux"
+    },
+    {
+        "title": "Steak hach\u00e9 (boeuf)",
+        "alergenesIng": [
+            "Viande"
+        ],
+        "pFrais": true,
+        "ingType": "animaux"
+    },
+    {
+        "title": "T\u00eate de veau (abats)",
+        "alergenesIng": [
+            "Viande"
+        ],
+        "pFrais": true,
+        "ingType": "animaux"
+    },
+    {
+        "title": "Thon (poisson)",
+        "alergenesIng": [
+            "Poisson"
+        ],
+        "pFrais": true,
+        "ingType": "animaux"
+    },
+    {
+        "title": "Travers (porc)",
+        "alergenesIng": [
+            "Porc"
+        ],
+        "pFrais": true,
+        "ingType": "animaux"
+    },
+    {
+        "title": "Tripes (abats)",
+        "alergenesIng": [
+            "Viande"
+        ],
+        "pFrais": true,
+        "ingType": "animaux"
+    },
+    {
+        "title": "Truite (poisson)",
+        "alergenesIng": [
+            "Poisson"
+        ],
+        "pFrais": true,
+        "ingType": "animaux"
+    },
+    {
+        "title": "Turbot (poisson)",
+        "alergenesIng": [
+            "Poisson"
+        ],
+        "pFrais": true,
+        "ingType": "animaux"
+    },
+    {
+        "title": "Viande hach\u00e9e (boeuf)",
+        "alergenesIng": [
+            "Viande"
+        ],
+        "pFrais": true,
+        "ingType": "animaux"
+    },
+    {
+        "title": "Viande hach\u00e9e (porc)",
+        "alergenesIng": [
+            "Porc"
+        ],
+        "pFrais": true,
+        "ingType": "animaux"
+    },
+    {
+        "title": "Viande hach\u00e9e (veau)",
+        "alergenesIng": [
+            "Viande"
+        ],
+        "pFrais": true,
+        "ingType": "animaux"
+    },
+    {
+        "pFrais": false,
+        "title": "Champignon shiitake s\u00e9ch\u00e9",
+        "ingType": "legumes"
+    },
+    {
+        "pFrais": true,
+        "title": "Galanga",
+        "ingType": "legumes"
+    },
+    {
+        "pFrais": true,
+        "title": "Gingembre bio",
+        "ingType": "legumes"
+    },
+    {
+        "pFrais": false,
+        "title": "Champignons s\u00e9ch\u00e9s",
+        "ingType": "legumes"
+    },
+    {
+        "pFrais": true,
+        "title": "Concombre sans traitement",
+        "ingType": "legumes"
+    },
+    {
+        "pFrais": true,
+        "title": "Zestes d'orange",
+        "ingType": "legumes"
+    },
+    {
+        "pFrais": true,
+        "title": "Orange non trait\u00e9e",
+        "ingType": "legumes"
+    },
+    {
+        "pFrais": true,
+        "title": "Chou chinois",
+        "ingType": "legumes"
+    },
+    {
+        "pFrais": true,
+        "title": "Citron non trait\u00e9",
+        "ingType": "legumes"
+    },
+    {
+        "pFrais": true,
+        "title": "Salade verte (ch\u00eane)",
+        "ingType": "legumes"
+    },
+    {
+        "pFrais": false,
+        "title": "Algue Kombu",
+        "ingType": "legumes"
+    },
+    {
+        "pFrais": true,
+        "title": "M\u00e2che (salade)",
+        "ingType": "legumes"
+    },
+    {
+        "pFrais": false,
+        "title": "Cranberries",
+        "ingType": "legumes"
+    },
+    {
+        "pFrais": false,
+        "title": "Cornichon",
+        "ingType": "legumes"
+    },
+    {
+        "pFrais": false,
+        "title": "Betterave cuite",
+        "ingType": "legumes"
+    },
+    {
+        "pFrais": true,
+        "title": "Gingembre",
+        "ingType": "legumes"
+    },
+    {
+        "pFrais": false,
+        "title": "Petits pois surgel\u00e9s",
+        "ingType": "legumes"
+    },
+    {
+        "pFrais": true,
+        "title": "Topinambour",
+        "ingType": "legumes"
+    },
+    {
+        "pFrais": false,
+        "title": "Olives noires \u00e0 la grecque",
+        "ingType": "legumes"
+    },
+    {
+        "title": "C\u00e9bette - Ciboule - Cive - Oignon vert",
+        "pFrais": false,
+        "ingType": "legumes"
+    },
+    {
+        "title": "Chou vert",
+        "saisons": [
+            "automne",
+            "hiver"
+        ],
+        "pFrais": true,
+        "ingType": "legumes"
+    },
+    {
+        "title": "Figues S\u00e8ches",
+        "pFrais": true,
+        "ingType": "legumes"
+    },
+    {
+        "title": "Abricot",
+        "pFrais": true,
+        "ingType": "legumes"
+    },
+    {
+        "title": "Ail",
+        "pFrais": true,
+        "ingType": "legumes"
+    },
+    {
+        "title": "Airelle",
+        "pFrais": true,
+        "ingType": "legumes"
+    },
+    {
+        "title": "Ananas",
+        "pFrais": true,
+        "ingType": "legumes"
+    },
+    {
+        "title": "Ananas (conserve)",
+        "pFrais": false,
+        "ingType": "legumes"
+    },
+    {
+        "title": "Artichaut",
+        "pFrais": true,
+        "ingType": "legumes"
+    },
+    {
+        "title": "Asperge blanche",
+        "pFrais": true,
+        "ingType": "legumes"
+    },
+    {
+        "title": "Asperge verte",
+        "pFrais": true,
+        "ingType": "legumes"
+    },
+    {
+        "title": "Aubergine",
+        "pFrais": true,
+        "ingType": "legumes"
+    },
+    {
+        "title": "Avocat",
+        "pFrais": true,
+        "ingType": "legumes"
+    },
+    {
+        "title": "Banane",
+        "pFrais": true,
+        "ingType": "legumes"
+    },
+    {
+        "title": "Banane s\u00e9ch\u00e9e",
+        "pFrais": false,
+        "ingType": "legumes"
+    },
+    {
+        "title": "Bette (blette)",
+        "pFrais": true,
+        "ingType": "legumes"
+    },
+    {
+        "title": "Betterave rouge",
+        "pFrais": true,
+        "ingType": "legumes"
+    },
+    {
+        "title": "Brocoli",
+        "pFrais": true,
+        "ingType": "legumes"
+    },
+    {
+        "title": "Canneberge",
+        "pFrais": true,
+        "ingType": "legumes"
+    },
+    {
+        "title": "Carotte",
+        "pFrais": true,
+        "ingType": "legumes"
+    },
+    {
+        "title": "Cassis",
+        "pFrais": true,
+        "ingType": "legumes"
+    },
+    {
+        "title": "Catalonia",
+        "pFrais": true,
+        "ingType": "legumes"
+    },
+    {
+        "title": "C\u00e9leri",
+        "alergenesIng": [
+            "C\u00e9leri"
+        ],
+        "pFrais": true,
+        "ingType": "legumes"
+    },
+    {
+        "title": "C\u00e9leri branche",
+        "alergenesIng": [
+            "C\u00e9leri"
+        ],
+        "pFrais": true,
+        "ingType": "legumes"
+    },
+    {
+        "title": "C\u00e9leri rave",
+        "alergenesIng": [
+            "C\u00e9leri"
+        ],
+        "pFrais": true,
+        "ingType": "legumes"
+    },
+    {
+        "title": "Cerise",
+        "pFrais": true,
+        "ingType": "legumes"
+    },
+    {
+        "title": "Cerise aux sirop",
+        "pFrais": false,
+        "ingType": "legumes"
+    },
+    {
+        "title": "Cerises Griottes",
+        "pFrais": true,
+        "ingType": "legumes"
+    },
+    {
+        "title": "Champignon noir",
+        "pFrais": true,
+        "ingType": "legumes"
+    },
+    {
+        "title": "Champignons",
+        "pFrais": true,
+        "ingType": "legumes"
+    },
+    {
+        "title": "Champignons (conserve)",
+        "pFrais": false,
+        "ingType": "legumes"
+    },
+    {
+        "title": "Chou blanc",
+        "pFrais": true,
+        "ingType": "legumes"
+    },
+    {
+        "title": "Chou de Bruxelles",
+        "pFrais": true,
+        "ingType": "legumes"
+    },
+    {
+        "title": "Chou fris\u00e9",
+        "pFrais": true,
+        "ingType": "legumes"
+    },
+    {
+        "title": "Chou Romanesco",
+        "pFrais": true,
+        "ingType": "legumes"
+    },
+    {
+        "title": "Chou rouge",
+        "pFrais": true,
+        "ingType": "legumes"
+    },
+    {
+        "title": "Chou-chinois",
+        "pFrais": true,
+        "ingType": "legumes"
+    },
+    {
+        "title": "Chou-fleur",
+        "pFrais": true,
+        "ingType": "legumes"
+    },
+    {
+        "title": "Chou-rave",
+        "pFrais": true,
+        "ingType": "legumes"
+    },
+    {
+        "title": "Cima di Rapa",
+        "pFrais": true,
+        "ingType": "legumes"
+    },
+    {
+        "title": "Citron jaune",
+        "pFrais": true,
+        "ingType": "legumes"
+    },
+    {
+        "title": "Citron confit",
+        "pFrais": false,
+        "ingType": "legumes"
+    },
+    {
+        "title": "Citron vert",
+        "pFrais": true,
+        "ingType": "legumes"
+    },
+    {
+        "title": "Citrouille",
+        "pFrais": true,
+        "ingType": "legumes"
+    },
+    {
+        "title": "Cl\u00e9mentine",
+        "pFrais": true,
+        "ingType": "legumes"
+    },
+    {
+        "title": "Coing",
+        "pFrais": true,
+        "ingType": "legumes"
+    },
+    {
+        "title": "Concombre",
+        "pFrais": true,
+        "ingType": "legumes"
+    },
+    {
+        "title": "Courge",
+        "pFrais": true,
+        "ingType": "legumes"
+    },
+    {
+        "title": "Courge Butternut",
+        "pFrais": true,
+        "ingType": "legumes"
+    },
+    {
+        "title": "Courgette",
+        "pFrais": true,
+        "ingType": "legumes"
+    },
+    {
+        "title": "Datte",
+        "pFrais": true,
+        "ingType": "legumes"
+    },
+    {
+        "title": "Echalote",
+        "pFrais": true,
+        "ingType": "legumes"
+    },
+    {
+        "title": "Endive",
+        "pFrais": true,
+        "ingType": "legumes"
+    },
+    {
+        "title": "Epinard",
+        "pFrais": true,
+        "ingType": "legumes"
+    },
+    {
+        "title": "Fenouil",
+        "pFrais": true,
+        "ingType": "legumes"
+    },
+    {
+        "title": "Figue",
+        "pFrais": true,
+        "ingType": "legumes"
+    },
+    {
+        "title": "Fraise",
+        "pFrais": true,
+        "ingType": "legumes"
+    },
+    {
+        "title": "Fraise des bois",
+        "pFrais": true,
+        "ingType": "legumes"
+    },
+    {
+        "title": "Framboise",
+        "pFrais": true,
+        "ingType": "legumes"
+    },
+    {
+        "title": "Fruit de la passion",
+        "pFrais": true,
+        "ingType": "legumes"
+    },
+    {
+        "title": "Grenade",
+        "pFrais": true,
+        "ingType": "legumes"
+    },
+    {
+        "title": "Groseille",
+        "pFrais": true,
+        "ingType": "legumes"
+    },
+    {
+        "title": "Haricots beurre",
+        "pFrais": true,
+        "ingType": "legumes"
+    },
+    {
+        "title": "Haricots plats",
+        "pFrais": true,
+        "ingType": "legumes"
+    },
+    {
+        "title": "Haricots verts",
+        "pFrais": true,
+        "ingType": "legumes"
+    },
+    {
+        "title": "Kaki",
+        "pFrais": true,
+        "ingType": "legumes"
+    },
+    {
+        "title": "Kiwi",
+        "pFrais": true,
+        "ingType": "legumes"
+    },
+    {
+        "title": "Kumquat",
+        "pFrais": true,
+        "ingType": "legumes"
+    },
+    {
+        "title": "Laitue romaine",
+        "pFrais": true,
+        "ingType": "legumes"
+    },
+    {
+        "title": "Litchi",
+        "pFrais": true,
+        "ingType": "legumes"
+    },
+    {
+        "title": "Mandarine",
+        "pFrais": true,
+        "ingType": "legumes"
+    },
+    {
+        "title": "Mangue",
+        "pFrais": true,
+        "ingType": "legumes"
+    },
+    {
+        "title": "Marron",
+        "pFrais": true,
+        "ingType": "legumes"
+    },
+    {
+        "title": "Melon",
+        "pFrais": true,
+        "ingType": "legumes"
+    },
+    {
+        "title": "Mirabelle",
+        "pFrais": true,
+        "ingType": "legumes"
+    },
+    {
+        "title": "Myrtille",
+        "pFrais": true,
+        "ingType": "legumes"
+    },
+    {
+        "title": "Navet",
+        "pFrais": true,
+        "ingType": "legumes"
+    },
+    {
+        "title": "Nectarine",
+        "pFrais": true,
+        "ingType": "legumes"
+    },
+    {
+        "title": "Noix de coco",
+        "pFrais": true,
+        "ingType": "legumes"
+    },
+    {
+        "title": "Oignon",
+        "pFrais": true,
+        "ingType": "legumes"
+    },
+    {
+        "title": "Oignon rouge",
+        "pFrais": true,
+        "ingType": "legumes"
+    },
+    {
+        "title": "Olives",
+        "pFrais": true,
+        "ingType": "legumes"
+    },
+    {
+        "title": "Orange",
+        "pFrais": true,
+        "ingType": "legumes"
+    },
+    {
+        "title": "Orange confite",
+        "pFrais": true,
+        "ingType": "legumes"
+    },
+    {
+        "title": "Orange sanguine",
+        "pFrais": true,
+        "ingType": "legumes"
+    },
+    {
+        "title": "Patates douces",
+        "pFrais": true,
+        "ingType": "legumes"
+    },
+    {
+        "title": "Pamplemousse",
+        "pFrais": true,
+        "ingType": "legumes"
+    },
+    {
+        "title": "Panais",
+        "pFrais": true,
+        "ingType": "legumes"
+    },
+    {
+        "title": "Papaye",
+        "pFrais": true,
+        "ingType": "legumes"
+    },
+    {
+        "title": "Past\u00e8que",
+        "pFrais": true,
+        "ingType": "legumes"
+    },
+    {
+        "title": "Petit oignon blanc",
+        "pFrais": true,
+        "ingType": "legumes"
+    },
+    {
+        "title": "Pistaches",
+        "pFrais": true,
+        "ingType": "legumes"
+    },
+    {
+        "title": "Poire",
+        "pFrais": true,
+        "ingType": "legumes"
+    },
+    {
+        "title": "Poireau",
+        "pFrais": true,
+        "ingType": "legumes"
+    },
+    {
+        "title": "Pois mange-tout",
+        "pFrais": true,
+        "ingType": "legumes"
+    },
+    {
+        "title": "Petits pois",
+        "pFrais": true,
+        "ingType": "legumes"
+    },
+    {
+        "title": "Poivron",
+        "pFrais": true,
+        "ingType": "legumes"
+    },
+    {
+        "title": "Poivron (jaune)",
+        "pFrais": true,
+        "ingType": "legumes"
+    },
+    {
+        "title": "Poivron (rouge)",
+        "pFrais": true,
+        "ingType": "legumes"
+    },
+    {
+        "title": "Poivron (vert)",
+        "pFrais": true,
+        "ingType": "legumes"
+    },
+    {
+        "title": "Pomme",
+        "pFrais": true,
+        "ingType": "legumes"
+    },
+    {
+        "title": "Pomme de terre",
+        "pFrais": true,
+        "ingType": "legumes"
+    },
+    {
+        "title": "Potimarron",
+        "pFrais": true,
+        "ingType": "legumes"
+    },
+    {
+        "title": "Potiron",
+        "pFrais": true,
+        "ingType": "legumes"
+    },
+    {
+        "title": "Pousses de soja",
+        "alergenesIng": [
+            "Soja"
+        ],
+        "pFrais": true,
+        "ingType": "legumes"
+    },
+    {
+        "title": "Prune",
+        "pFrais": true,
+        "ingType": "legumes"
+    },
+    {
+        "title": "Pruneau",
+        "pFrais": true,
+        "ingType": "legumes"
+    },
+    {
+        "title": "Quetsche",
+        "pFrais": true,
+        "ingType": "legumes"
+    },
+    {
+        "title": "Radis",
+        "pFrais": true,
+        "ingType": "legumes"
+    },
+    {
+        "title": "Radis long",
+        "pFrais": true,
+        "ingType": "legumes"
+    },
+    {
+        "title": "Raisin",
+        "pFrais": true,
+        "ingType": "legumes"
+    },
+    {
+        "title": "Raisin sec",
+        "pFrais": false,
+        "ingType": "legumes"
+    },
+    {
+        "title": "Rhubarbe",
+        "pFrais": true,
+        "ingType": "legumes"
+    },
+    {
+        "title": "Salade",
+        "pFrais": true,
+        "ingType": "legumes"
+    },
+    {
+        "title": "Salsifis",
+        "pFrais": true,
+        "ingType": "legumes"
+    },
+    {
+        "title": "Tomate",
+        "pFrais": true,
+        "ingType": "legumes"
+    },
+    {
+        "title": "Tomate (conserve)",
+        "pFrais": false,
+        "ingType": "legumes"
+    },
+    {
+        "title": "Tomate s\u00e9ch\u00e9e",
+        "pFrais": false,
+        "ingType": "legumes"
+    },
+    {
+        "title": "Tomates cerises",
+        "pFrais": true,
+        "ingType": "legumes"
+    },
+    {
+        "title": "Pralines roses de Lyon",
+        "ingType": "sucres"
+    },
+    {
+        "title": "Jus de citron vert",
+        "ingType": "sucres"
+    },
+    {
+        "title": "Sirop d'\u00e9rable ",
+        "ingType": "sucres"
+    },
+    {
+        "title": "Sucre complet",
+        "ingType": "sucres"
+    },
+    {
+        "title": "M\u00e9lasse",
+        "ingType": "sucres"
+    },
+    {
+        "title": "Cacao",
+        "ingType": "sucres"
+    },
+    {
+        "title": "Miel",
+        "ingType": "sucres"
+    },
+    {
+        "title": "lait de cajou",
+        "ingType": "sucres"
+    },
+    {
+        "title": "sucre blanc",
+        "ingType": "sucres"
+    },
+    {
+        "title": "Sucre brun Vergeoise",
+        "ingType": "sucres"
+    },
+    {
+        "title": "Gingembre confit",
+        "ingType": "sucres"
+    },
+    {
+        "title": "Biscuit vegan et sans gluten",
+        "ingType": "sucres"
+    },
+    {
+        "title": "Confiture de chataigne (sans sucre)",
+        "ingType": "sucres"
+    },
+    {
+        "title": "Glucose",
+        "ingType": "sucres"
+    },
+    {
+        "title": "Biscuit Petit Brun",
+        "alergenesIng": [
+            "Gluten",
+            "Produit laitier",
+            "S\u00e9same",
+            "Oeuf"
+        ],
+        "ingType": "sucres"
+    },
+    {
+        "title": "Speculoos",
+        "alergenesIng": [
+            "Gluten",
+            "Soja"
+        ],
+        "ingType": "sucres"
+    },
+    {
+        "title": "Sirop d'agave",
+        "ingType": "sucres"
+    },
+    {
+        "title": "sucre de canne (blond)",
+        "ingType": "sucres"
+    },
+    {
+        "title": "Cassonade",
+        "ingType": "sucres"
+    },
+    {
+        "title": "Chocolat amer en poudre",
+        "ingType": "sucres"
+    },
+    {
+        "title": "Chocolat au lait",
+        "ingType": "sucres"
+    },
+    {
+        "title": "Chocolat blanc",
+        "ingType": "sucres"
+    },
+    {
+        "title": "Chocolat noir",
+        "ingType": "sucres"
+    },
+    {
+        "title": "Chocolat pralin\u00e9",
+        "ingType": "sucres"
+    },
+    {
+        "title": "Eau de coco",
+        "vegan": true,
+        "vegetarien": true,
+        "ingType": "sucres"
+    },
+    {
+        "title": "Jus d'orange",
+        "vegan": true,
+        "vegetarien": true,
+        "ingType": "sucres"
+    },
+    {
+        "title": "Jus de canneberge",
+        "vegan": true,
+        "vegetarien": true,
+        "ingType": "sucres"
+    },
+    {
+        "title": "Jus de cerise",
+        "vegan": true,
+        "vegetarien": true,
+        "ingType": "sucres"
+    },
+    {
+        "title": "Jus de citron",
+        "vegan": true,
+        "vegetarien": true,
+        "ingType": "sucres"
+    },
+    {
+        "title": "Jus de fraise",
+        "vegan": true,
+        "vegetarien": true,
+        "ingType": "sucres"
+    },
+    {
+        "title": "Jus de fruits",
+        "vegan": true,
+        "vegetarien": true,
+        "ingType": "sucres"
+    },
+    {
+        "title": "Jus de poire",
+        "vegan": true,
+        "vegetarien": true,
+        "ingType": "sucres"
+    },
+    {
+        "title": "Jus de pomme",
+        "vegan": true,
+        "vegetarien": true,
+        "ingType": "sucres"
+    },
+    {
+        "title": "Jus de raisin",
+        "vegan": true,
+        "vegetarien": true,
+        "ingType": "sucres"
+    },
+    {
+        "title": "Jus de tomate",
+        "vegan": true,
+        "vegetarien": true,
+        "ingType": "sucres"
+    },
+    {
+        "title": "Nectar d'abricot",
+        "vegan": true,
+        "vegetarien": true,
+        "ingType": "sucres"
+    },
+    {
+        "title": "P\u00e9pites de chocolat",
+        "ingType": "sucres"
+    },
+    {
+        "title": "Poudre d'amandes",
+        "alergenesIng": [
+            "Fruit \u00e0 coque"
+        ],
+        "ingType": "sucres"
+    },
+    {
+        "title": "Poudre de noisettes",
+        "alergenesIng": [
+            "Fruit \u00e0 coque"
+        ],
+        "ingType": "sucres"
+    },
+    {
+        "title": "Praslin en poudre",
+        "alergenesIng": [
+            "Fruit \u00e0 coque"
+        ],
+        "ingType": "sucres"
+    },
+    {
+        "title": "Sucre en poudre",
+        "ingType": "sucres"
+    },
+    {
+        "title": "Sucre glace",
+        "ingType": "sucres"
+    },
+    {
+        "title": "Sucre vanill\u00e9",
+        "ingType": "sucres"
+    },
+    {
+        "title": "Caf\u00e9 moulu",
+        "ingType": "autres"
+    },
+    {
+        "title": "Chunks (prot\u00e9ine de soja)",
+        "alergenesIng": [
+            "Soja"
+        ],
+        "ingType": "autres"
+    },
+    {
+        "title": "Th\u00e9 Matcha",
+        "ingType": "autres"
+    },
+    {
+        "title": "Gomme de guar",
+        "ingType": "autres"
+    },
+    {
+        "title": "Gomme de xanthane",
+        "ingType": "autres"
+    },
+    {
+        "title": "Pesto Rosso v\u00e9gan",
+        "ingType": "autres"
+    },
+    {
+        "title": "Aquafaba - jus de pois chiche",
+        "ingType": "autres"
+    },
+    {
+        "title": "Pain rassis",
+        "alergenesIng": [
+            "Gluten"
+        ],
+        "ingType": "autres"
+    },
+    {
+        "title": "Pate feuillet\u00e9 sans gluten et vegan",
+        "ingType": "autres"
+    },
+    {
+        "title": "Pate feuillet\u00e9e sans gluten",
+        "ingType": "autres"
+    },
+    {
+        "title": "Pate feuillet\u00e9e",
+        "alergenesIng": [
+            "Gluten"
+        ],
+        "ingType": "autres"
+    },
+    {
+        "title": "Beurre de cacahu\u00e8tes (sal\u00e9)",
+        "alergenesIng": [
+            "Arachides"
+        ],
+        "ingType": "autres"
+    },
+    {
+        "title": "Beurre de cacahu\u00e8tes (sucr\u00e9)",
+        "alergenesIng": [
+            "Arachides"
+        ],
+        "ingType": "autres"
+    },
+    {
+        "title": "Saucisse v\u00e9gane",
+        "ingType": "autres"
+    },
+    {
+        "title": "Prot\u00e9ines de soja",
+        "alergenesIng": [
+            "Soja"
+        ],
+        "ingType": "autres"
+    },
+    {
+        "title": "Eau",
+        "ingType": "autres"
+    },
+    {
+        "title": "Miso",
+        "alergenesIng": [
+            "Soja"
+        ],
+        "ingType": "autres"
+    },
+    {
+        "title": "Gomme de xanthane",
+        "vegetarien": true,
+        "vegan": true,
+        "sans-lactose": true,
+        "ingType": "autres"
+    },
+    {
+        "title": "Agar-agar",
+        "ingType": "autres"
+    },
+    {
+        "title": "Bicarbonate de soude",
+        "ingType": "autres"
+    },
+    {
+        "title": "Chapelure",
+        "alergenesIng": [
+            "Gluten"
+        ],
+        "ingType": "autres"
+    },
+    {
+        "title": "Colorants alimentaires en poudre",
+        "ingType": "autres"
+    },
+    {
+        "title": "Concentr\u00e9 de tomate",
+        "ingType": "autres"
+    },
+    {
+        "title": "Feuille de g\u00e9latine",
+        "ingType": "autres"
+    },
+    {
+        "title": "Feuilles de brick",
+        "alergenesIng": [
+            "Gluten"
+        ],
+        "ingType": "autres"
+    },
+    {
+        "title": "Feuilles de riz (galettes)",
+        "vegan": true,
+        "vegetarien": true,
+        "ingType": "autres"
+    },
+    {
+        "title": "Levure chimique",
+        "alergenesIng": [
+            "Gluten"
+        ],
+        "ingType": "autres"
+    },
+    {
+        "title": "Levure de boulanger",
+        "ingType": "autres"
+    },
+    {
+        "title": "Pain",
+        "alergenesIng": [
+            "Gluten"
+        ],
+        "ingType": "autres"
+    },
+    {
+        "title": "Pain de mie",
+        "alergenesIng": [
+            "Gluten"
+        ],
+        "ingType": "autres"
+    },
+    {
+        "title": "Pain pita",
+        "alergenesIng": [
+            "Gluten"
+        ],
+        "ingType": "autres"
+    },
+    {
+        "alergenesIng": [
+            "S\u00e9same"
+        ],
+        "title": "Pur\u00e9e de s\u00e9same noir",
+        "vegan": true,
+        "vegetarien": true,
+        "ingType": "autres"
+    },
+    {
+        "alergenesIng": [
+            "S\u00e9same"
+        ],
+        "title": "Tahin",
+        "ingType": "autres"
+    },
+    {
+        "pFrais": true,
+        "title": "Tofu soyeux",
+        "ingType": "frais"
+    },
+    {
+        "pFrais": true,
+        "title": "Tofu ferme",
+        "ingType": "frais"
+    },
+    {
+        "pFrais": true,
+        "title": "Yaourt grec de vache",
+        "ingType": "frais"
+    },
+    {
+        "pFrais": true,
+        "title": "Parmigiano",
+        "alergenesIng": [
+            "Produit laitier"
+        ],
+        "ingType": "frais"
+    },
+    {
+        "pFrais": true,
+        "title": "Cr\u00e8me fra\u00eeche \u00e9paisse enti\u00e8re",
+        "alergenesIng": [
+            "Produit laitier"
+        ],
+        "ingType": "frais"
+    },
+    {
+        "pFrais": true,
+        "title": "Gouda en tranche",
+        "ingType": "frais"
+    },
+    {
+        "pFrais": true,
+        "title": "Margarine v\u00e9g\u00e9tale sp\u00e9cial cuisson",
+        "ingType": "frais"
+    },
+    {
+        "pFrais": true,
+        "title": "Ricotta",
+        "alergenesIng": [
+            "Produit laitier"
+        ],
+        "ingType": "frais"
+    },
+    {
+        "pFrais": true,
+        "title": "Yaourt de vache",
+        "alergenesIng": [
+            "Produit laitier"
+        ],
+        "ingType": "frais"
+    },
+    {
+        "pFrais": true,
+        "title": "Toastinette fromage burger",
+        "ingType": "frais"
+    },
+    {
+        "pFrais": true,
+        "title": "Cr\u00e8me florette",
+        "alergenesIng": [
+            "Produit laitier"
+        ],
+        "ingType": "frais"
+    },
+    {
+        "title": "Yaourt de soja",
+        "vegetarien": true,
+        "vegan": true,
+        "alergenesIng": [
+            "Soja"
+        ],
+        "pFrais": true,
+        "ingType": "frais"
+    },
+    {
+        "title": "Babybel",
+        "vegetarien": true,
+        "vegan": false,
+        "alergenesIng": [
+            "Produit laitier"
+        ],
+        "pFrais": true,
+        "ingType": "frais"
+    },
+    {
+        "title": "Beurre demi-sel",
+        "vegetarien": true,
+        "vegan": false,
+        "alergenesIng": [
+            "Produit laitier"
+        ],
+        "pFrais": true,
+        "ingType": "frais"
+    },
+    {
+        "title": "Beurre doux",
+        "vegetarien": true,
+        "vegan": false,
+        "alergenesIng": [
+            "Produit laitier"
+        ],
+        "pFrais": true,
+        "ingType": "frais"
+    },
+    {
+        "title": "Bleu",
+        "vegetarien": true,
+        "vegan": false,
+        "alergenesIng": [
+            "Produit laitier"
+        ],
+        "pFrais": true,
+        "ingType": "frais"
+    },
+    {
+        "title": "Brie-Beaufort",
+        "vegetarien": true,
+        "vegan": false,
+        "alergenesIng": [
+            "Produit laitier"
+        ],
+        "pFrais": true,
+        "ingType": "frais"
+    },
+    {
+        "title": "B\u00fbche de ch\u00e8vre",
+        "vegetarien": true,
+        "vegan": false,
+        "alergenesIng": [
+            "Produit laitier"
+        ],
+        "pFrais": true,
+        "ingType": "frais"
+    },
+    {
+        "title": "Camembert",
+        "vegetarien": true,
+        "vegan": false,
+        "alergenesIng": [
+            "Produit laitier"
+        ],
+        "pFrais": true,
+        "ingType": "frais"
+    },
+    {
+        "title": "Cantal",
+        "vegetarien": true,
+        "vegan": false,
+        "alergenesIng": [
+            "Produit laitier"
+        ],
+        "pFrais": true,
+        "ingType": "frais"
+    },
+    {
+        "title": "Cheddar",
+        "vegetarien": true,
+        "vegan": false,
+        "alergenesIng": [
+            "Produit laitier"
+        ],
+        "pFrais": true,
+        "ingType": "frais"
+    },
+    {
+        "title": "Comt\u00e9",
+        "vegetarien": true,
+        "vegan": false,
+        "alergenesIng": [
+            "Produit laitier"
+        ],
+        "pFrais": true,
+        "ingType": "frais"
+    },
+    {
+        "title": "Cr\u00e8me Chantilly",
+        "vegetarien": true,
+        "vegan": false,
+        "alergenesIng": [
+            "Produit laitier"
+        ],
+        "pFrais": true,
+        "ingType": "frais"
+    },
+    {
+        "title": "Cr\u00e8me \u00e9paisse",
+        "vegetarien": true,
+        "vegan": false,
+        "alergenesIng": [
+            "Produit laitier"
+        ],
+        "pFrais": true,
+        "ingType": "frais"
+    },
+    {
+        "title": "Edam",
+        "vegetarien": true,
+        "alergenesIng": [
+            "Produit laitier"
+        ],
+        "pFrais": true,
+        "ingType": "frais"
+    },
+    {
+        "title": "Emmental",
+        "vegetarien": true,
+        "alergenesIng": [
+            "Produit laitier"
+        ],
+        "pFrais": true,
+        "ingType": "frais"
+    },
+    {
+        "title": "Feta",
+        "vegetarien": true,
+        "vegan": false,
+        "alergenesIng": [
+            "Produit laitier"
+        ],
+        "pFrais": true,
+        "ingType": "frais"
+    },
+    {
+        "title": "Fourme d'Ambert",
+        "vegetarien": true,
+        "vegan": false,
+        "alergenesIng": [
+            "Produit laitier"
+        ],
+        "pFrais": true,
+        "ingType": "frais"
+    },
+    {
+        "title": "Fromage \u00e0 raclette",
+        "vegetarien": true,
+        "vegan": false,
+        "alergenesIng": [
+            "Produit laitier"
+        ],
+        "pFrais": true,
+        "ingType": "frais"
+    },
+    {
+        "title": "Fromage blanc",
+        "vegetarien": true,
+        "vegan": false,
+        "alergenesIng": [
+            "Produit laitier"
+        ],
+        "pFrais": true,
+        "ingType": "frais"
+    },
+    {
+        "title": "Fromage de ch\u00e8vre frais",
+        "vegetarien": true,
+        "vegan": false,
+        "alergenesIng": [
+            "Produit laitier"
+        ],
+        "pFrais": true,
+        "ingType": "frais"
+    },
+    {
+        "title": "Fromage frais",
+        "vegetarien": true,
+        "vegan": false,
+        "alergenesIng": [
+            "Produit laitier"
+        ],
+        "pFrais": true,
+        "ingType": "frais"
+    },
+    {
+        "title": "Fromage r\u00e2p\u00e9",
+        "vegetarien": true,
+        "vegan": false,
+        "alergenesIng": [
+            "Produit laitier"
+        ],
+        "pFrais": true,
+        "ingType": "frais"
+    },
+    {
+        "title": "Gouda",
+        "vegetarien": true,
+        "vegan": false,
+        "alergenesIng": [
+            "Produit laitier"
+        ],
+        "pFrais": true,
+        "ingType": "frais"
+    },
+    {
+        "title": "Gruy\u00e8re",
+        "vegetarien": true,
+        "vegan": false,
+        "alergenesIng": [
+            "Produit laitier"
+        ],
+        "pFrais": true,
+        "ingType": "frais"
+    },
+    {
+        "title": "Yaourt V\u00e9g\u00e9tal",
+        "alergenesIng": [],
+        "vegan": true,
+        "vegetarien": true,
+        "pFrais": true,
+        "ingType": "frais"
+    },
+    {
+        "title": "Yaourt de Soja",
+        "alergenesIng": [
+            "Soja"
+        ],
+        "vegan": true,
+        "vegetarien": true,
+        "pFrais": true,
+        "ingType": "frais"
+    },
+    {
+        "title": "Cr\u00e8me glac\u00e9e",
+        "vegetarien": true,
+        "alergenesIng": [
+            "Produit laitier"
+        ],
+        "pFrais": true,
+        "ingType": "frais"
+    },
+    {
+        "title": "Cr\u00e8me glac\u00e9e chocolat",
+        "vegetarien": true,
+        "alergenesIng": [
+            "Produit laitier"
+        ],
+        "pFrais": true,
+        "ingType": "frais"
+    },
+    {
+        "title": "Cr\u00e8me glac\u00e9e fraise",
+        "vegetarien": true,
+        "alergenesIng": [
+            "Produit laitier"
+        ],
+        "pFrais": true,
+        "ingType": "frais"
+    },
+    {
+        "title": "Leerdammer",
+        "alergenesIng": [
+            "Produit laitier"
+        ],
+        "pFrais": true,
+        "vegetarien": true,
+        "sans_lactose": false,
+        "vegan": false,
+        "ingType": "frais"
+    },
+    {
+        "title": "Livarot",
+        "alergenesIng": [
+            "Produit laitier"
+        ],
+        "pFrais": true,
+        "sans_lactose": false,
+        "vegetarien": true,
+        "vegan": false,
+        "ingType": "frais"
+    },
+    {
+        "title": "Maroilles",
+        "alergenesIng": [
+            "Produit laitier"
+        ],
+        "pFrais": true,
+        "vegetarien": true,
+        "sans_lactose": false,
+        "vegan": false,
+        "ingType": "frais"
+    },
+    {
+        "title": "Mascarpone",
+        "alergenesIng": [
+            "Produit laitier"
+        ],
+        "pFrais": true,
+        "vegetarien": true,
+        "sans_lactose": false,
+        "vegan": false,
+        "ingType": "frais"
+    },
+    {
+        "title": "Mozzarella",
+        "alergenesIng": [
+            "Produit laitier"
+        ],
+        "pFrais": true,
+        "vegetarien": true,
+        "sans_lactose": false,
+        "vegan": false,
+        "ingType": "frais"
+    },
+    {
+        "title": "Munster",
+        "alergenesIng": [
+            "Produit laitier"
+        ],
+        "pFrais": true,
+        "vegetarien": true,
+        "sans_lactose": false,
+        "vegan": false,
+        "ingType": "frais"
+    },
+    {
+        "title": "Parmesan",
+        "alergenesIng": [
+            "Produit laitier"
+        ],
+        "pFrais": true,
+        "vegetarien": true,
+        "vegan": false,
+        "sans_lactose": false,
+        "ingType": "frais"
+    },
+    {
+        "title": "Philadelphia",
+        "alergenesIng": [
+            "Produit laitier"
+        ],
+        "pFrais": true,
+        "sans_lactose": false,
+        "vegetarien": true,
+        "ingType": "frais"
+    },
+    {
+        "title": "Reblochon",
+        "alergenesIng": [
+            "Produit laitier"
+        ],
+        "pFrais": true,
+        "vegetarien": true,
+        "sans_lactose": false,
+        "vegan": false,
+        "ingType": "frais"
+    },
+    {
+        "title": "Roquefort",
+        "alergenesIng": [
+            "Produit laitier"
+        ],
+        "pFrais": true,
+        "vegetarien": true,
+        "sans_lactose": false,
+        "vegan": false,
+        "ingType": "frais"
+    },
+    {
+        "title": "Saint-Paulin",
+        "alergenesIng": [
+            "Produit laitier"
+        ],
+        "pFrais": true,
+        "vegetarien": true,
+        "sans_lactose": false,
+        "vegan": false,
+        "ingType": "frais"
+    },
+    {
+        "title": "Yaourt nature",
+        "alergenesIng": [
+            "Produit laitier"
+        ],
+        "pFrais": true,
+        "vegetarien": true,
+        "sans_lactose": false,
+        "vegan": false,
+        "ingType": "frais"
+    },
+    {
+        "title": "Yaourt d'Amande",
+        "alergenesIng": [
+            "Fruit \u00e0 coque"
+        ],
+        "vegan": true,
+        "pFrais": true,
+        "vegetarien": true,
+        "ingType": "frais"
+    },
+    {
+        "title": "Leerdammer",
+        "alergenesIng": [
+            "Produit laitier"
+        ],
+        "pFrais": true,
+        "vegetarien": true,
+        "sans_lactose": false,
+        "vegan": false,
+        "ingType": "frais"
+    },
+    {
+        "title": "Livarot",
+        "alergenesIng": [
+            "Produit laitier"
+        ],
+        "pFrais": true,
+        "sans_lactose": false,
+        "vegetarien": true,
+        "vegan": false,
+        "ingType": "frais"
+    },
+    {
+        "title": "Maroilles",
+        "alergenesIng": [
+            "Produit laitier"
+        ],
+        "pFrais": true,
+        "vegetarien": true,
+        "sans_lactose": false,
+        "vegan": false,
+        "ingType": "frais"
+    },
+    {
+        "title": "Mascarpone",
+        "alergenesIng": [
+            "Produit laitier"
+        ],
+        "pFrais": true,
+        "vegetarien": true,
+        "sans_lactose": false,
+        "vegan": false,
+        "ingType": "frais"
+    },
+    {
+        "title": "Mozzarella",
+        "alergenesIng": [
+            "Produit laitier"
+        ],
+        "pFrais": true,
+        "vegetarien": true,
+        "sans_lactose": false,
+        "vegan": false,
+        "ingType": "frais"
+    },
+    {
+        "title": "Munster",
+        "alergenesIng": [
+            "Produit laitier"
+        ],
+        "pFrais": true,
+        "vegetarien": true,
+        "sans_lactose": false,
+        "vegan": false,
+        "ingType": "frais"
+    },
+    {
+        "title": "Parmesan",
+        "alergenesIng": [
+            "Produit laitier"
+        ],
+        "pFrais": true,
+        "vegetarien": true,
+        "vegan": false,
+        "sans_lactose": false,
+        "ingType": "frais"
+    },
+    {
+        "title": "Philadelphia",
+        "alergenesIng": [
+            "Produit laitier"
+        ],
+        "pFrais": true,
+        "sans_lactose": false,
+        "vegetarien": true,
+        "ingType": "frais"
+    },
+    {
+        "title": "Reblochon",
+        "alergenesIng": [
+            "Produit laitier"
+        ],
+        "pFrais": true,
+        "vegetarien": true,
+        "sans_lactose": false,
+        "vegan": false,
+        "ingType": "frais"
+    },
+    {
+        "title": "Roquefort",
+        "alergenesIng": [
+            "Produit laitier"
+        ],
+        "pFrais": true,
+        "vegetarien": true,
+        "sans_lactose": false,
+        "vegan": false,
+        "ingType": "frais"
+    },
+    {
+        "title": "Saint-Paulin",
+        "alergenesIng": [
+            "Produit laitier"
+        ],
+        "pFrais": true,
+        "vegetarien": true,
+        "sans_lactose": false,
+        "vegan": false,
+        "ingType": "frais"
+    },
+    {
+        "title": "Yaourt nature",
+        "alergenesIng": [
+            "Produit laitier"
+        ],
+        "pFrais": true,
+        "vegetarien": true,
+        "sans_lactose": false,
+        "vegan": false,
+        "ingType": "frais"
+    },
+    {
+        "title": "Yaourt d'Amande",
+        "alergenesIng": [
+            "Fruit \u00e0 coque"
+        ],
+        "vegan": true,
+        "pFrais": true,
+        "vegetarien": true,
+        "ingType": "frais"
+    },
+    {
+        "title": "Cr\u00e8me glac\u00e9e vanille",
+        "vegetarien": true,
+        "alergenesIng": [
+            "Produit laitier"
+        ],
+        "pFrais": true,
+        "ingType": "frais"
+    },
+    {
+        "title": "Tofu ferme",
+        "ingType": "lof"
+    },
+    {
+        "title": "Farine de bl\u00e9",
+        "alergenesIng": [
+            "Gluten"
+        ],
+        "ingType": "lof"
+    },
+    {
+        "title": "Lait demi-\u00e9cr\u00e9m\u00e9",
+        "alergenesIng": [
+            "Produit laitier"
+        ],
+        "vegetarien": true,
+        "sans_lactose": false,
+        "vegan": false,
+        "ingType": "lof"
+    },
+    {
+        "title": "Lait \u00e9cr\u00e9m\u00e9",
+        "alergenesIng": [
+            "Produit laitier"
+        ],
+        "vegetarien": true,
+        "sans_lactose": false,
+        "vegan": false,
+        "ingType": "lof"
+    },
+    {
+        "title": "Lait entier",
+        "alergenesIng": [
+            "Produit laitier"
+        ],
+        "vegetarien": true,
+        "sans_lactose": false,
+        "vegan": false,
+        "ingType": "lof"
+    },
+    {
+        "title": "lait de cajou",
+        "ingType": "lof"
+    },
+    {
+        "title": "F\u00e9cule de tapioca",
+        "ingType": "lof"
+    },
+    {
+        "title": "Farine d'amande",
+        "ingType": "lof"
+    },
+    {
+        "title": "Graines de lin",
+        "ingType": "lof"
+    },
+    {
+        "title": "Lait de riz",
+        "ingType": "lof"
+    },
+    {
+        "title": "Levure fra\u00eeche",
+        "alergenesIng": [
+            "Gluten"
+        ],
+        "ingType": "lof"
+    },
+    {
+        "title": "Gluten pur",
+        "alergenesIng": [
+            "Gluten"
+        ],
+        "ingType": "lof"
+    },
+    {
+        "title": "Lait de soja \u00e0 la vanille",
+        "alergenesIng": [
+            "Soja"
+        ],
+        "ingType": "lof"
+    },
+    {
+        "title": "Huile de coco d\u00e9sodoris\u00e9e",
+        "ingType": "lof"
+    },
+    {
+        "title": "Cr\u00e8me fraiche liquide enti\u00e8re",
+        "alergenesIng": [
+            "Produit laitier"
+        ],
+        "ingType": "lof"
+    },
+    {
+        "title": "huile de friture",
+        "ingType": "lof"
+    },
+    {
+        "title": "Lait concentr\u00e9 (non sucr\u00e9)",
+        "alergenesIng": [
+            "Produit laitier"
+        ],
+        "ingType": "lof"
+    },
+    {
+        "title": "Farine de riz blanche",
+        "ingType": "lof"
+    },
+    {
+        "title": "Farine de riz gluant",
+        "ingType": "lof"
+    },
+    {
+        "title": "Pate filo (1 feuille)",
+        "alergenesIng": [
+            "Gluten"
+        ],
+        "ingType": "lof"
+    },
+    {
+        "title": "Bicarbonate alimentaire",
+        "ingType": "lof"
+    },
+    {
+        "title": "Levure boulang\u00e8re sans gluten",
+        "ingType": "lof"
+    },
+    {
+        "title": "Levure boulang\u00e8re",
+        "ingType": "lof"
+    },
+    {
+        "title": "Levure chimique sans gluten",
+        "ingType": "lof"
+    },
+    {
+        "title": "Levure chimique",
+        "ingType": "lof"
+    },
+    {
+        "title": "Vinaigre de cidre",
+        "ingType": "lof"
+    },
+    {
+        "title": "Lait v\u00e9g\u00e9tal (au choix)",
+        "ingType": "lof"
+    },
+    {
+        "title": "Farine de riz",
+        "ingType": "lof"
+    },
+    {
+        "title": "Cr\u00e8me florette",
+        "alergenesIng": [
+            "Produit laitier"
+        ],
+        "ingType": "lof"
+    },
+    {
+        "title": "Cr\u00e8me soja",
+        "alergenesIng": [
+            "Soja"
+        ],
+        "ingType": "lof"
+    },
+    {
+        "title": "Cr\u00e8me d'amande",
+        "vegan": true,
+        "vegetarien": true,
+        "ingType": "lof"
+    },
+    {
+        "title": "Cr\u00e8me liquide",
+        "vegetarien": true,
+        "vegan": false,
+        "alergenesIng": [
+            "Produit laitier"
+        ],
+        "ingType": "lof"
+    },
+    {
+        "title": "Cr\u00e8me V\u00e9g\u00e9tale",
+        "vegan": true,
+        "vegetarien": true,
+        "alergenesIng": [
+            "Soja"
+        ],
+        "ingType": "lof"
+    },
+    {
+        "title": "Farine d'avoine",
+        "alergenesIng": [
+            "Gluten"
+        ],
+        "ingType": "lof"
+    },
+    {
+        "title": "Farine d'\u00e9peautre",
+        "alergenesIng": [
+            "Gluten"
+        ],
+        "ingType": "lof"
+    },
+    {
+        "title": "Farine d'orge",
+        "alergenesIng": [
+            "Gluten"
+        ],
+        "ingType": "lof"
+    },
+    {
+        "title": "Farine d\u2019amarante",
+        "ingType": "lof"
+    },
+    {
+        "title": "Farine de bl\u00e9 noir (sarrasin)",
+        "ingType": "lof"
+    },
+    {
+        "title": "Farine de ch\u00e2taigne",
+        "ingType": "lof"
+    },
+    {
+        "title": "Farine de coco",
+        "ingType": "lof"
+    },
+    {
+        "title": "Farine de kamut",
+        "alergenesIng": [
+            "Gluten"
+        ],
+        "ingType": "lof"
+    },
+    {
+        "title": "Farine de lentilles",
+        "ingType": "lof"
+    },
+    {
+        "title": "Farine de ma\u00efs",
+        "ingType": "lof"
+    },
+    {
+        "title": "Farine de millet",
+        "ingType": "lof"
+    },
+    {
+        "title": "Farine de pois chiche",
+        "ingType": "lof"
+    },
+    {
+        "title": "Farine de quinoa",
+        "ingType": "lof"
+    },
+    {
+        "title": "Farine de seigle",
+        "alergenesIng": [
+            "Gluten"
+        ],
+        "ingType": "lof"
+    },
+    {
+        "title": "Farine de soja",
+        "alergenesIng": [
+            "Soja"
+        ],
+        "ingType": "lof"
+    },
+    {
+        "title": "Farine de tapioca",
+        "ingType": "lof"
+    },
+    {
+        "title": "F\u00e9cule de ma\u00efs (Ma\u00efzena)",
+        "ingType": "lof"
+    },
+    {
+        "title": "huile d'olive",
+        "vegan": true,
+        "vegetarien": true,
+        "ingType": "lof"
+    },
+    {
+        "title": "huile de chanvre",
+        "vegan": true,
+        "vegetarien": true,
+        "ingType": "lof"
+    },
+    {
+        "title": "huile de coco",
+        "vegan": true,
+        "vegetarien": true,
+        "ingType": "lof"
+    },
+    {
+        "title": "huile de colza",
+        "vegan": true,
+        "vegetarien": true,
+        "ingType": "lof"
+    },
+    {
+        "title": "huile de lin",
+        "vegan": true,
+        "vegetarien": true,
+        "ingType": "lof"
+    },
+    {
+        "title": "huile de noisette",
+        "alergenesIng": [
+            "Fruit \u00e0 coque"
+        ],
+        "vegan": true,
+        "vegetarien": true,
+        "ingType": "lof"
+    },
+    {
+        "title": "huile de noix",
+        "alergenesIng": [
+            "Fruit \u00e0 coque"
+        ],
+        "vegan": true,
+        "vegetarien": true,
+        "ingType": "lof"
+    },
+    {
+        "title": "huile de p\u00e9pins de courge",
+        "vegan": true,
+        "vegetarien": true,
+        "ingType": "lof"
+    },
+    {
+        "title": "huile de p\u00e9pins de raisin",
+        "vegan": true,
+        "vegetarien": true,
+        "ingType": "lof"
+    },
+    {
+        "title": "huile de s\u00e9same",
+        "vegan": true,
+        "alergenesIng": [
+            "S\u00e9same"
+        ],
+        "vegetarien": true,
+        "ingType": "lof"
+    },
+    {
+        "title": "huile de tournesol",
+        "vegan": true,
+        "vegetarien": true,
+        "ingType": "lof"
+    },
+    {
+        "title": "lait (ch\u00e8vres)",
+        "ingType": "lof"
+    },
+    {
+        "title": "Lait concentr\u00e9 sucr\u00e9",
+        "vegetarien": true,
+        "ingType": "lof"
+    },
+    {
+        "title": "lait d'\u00e9peautre",
+        "ingType": "lof"
+    },
+    {
+        "title": "lait d\u2019amande",
+        "ingType": "lof"
+    },
+    {
+        "title": "lait d\u2019avoine",
+        "ingType": "lof"
+    },
+    {
+        "title": "lait de coco",
+        "ingType": "lof"
+    },
+    {
+        "title": "lait de noisette",
+        "ingType": "lof"
+    },
+    {
+        "title": "lait de soja",
+        "alergenesIng": [
+            "Soja"
+        ],
+        "vegetarien": true,
+        "sans_lactose": true,
+        "vegan": true,
+        "ingType": "lof"
+    },
+    {
+        "title": "Lait demi-\u00e9cr\u00e9m\u00e9",
+        "alergenesIng": [
+            "Produit laitier"
+        ],
+        "vegetarien": true,
+        "sans_lactose": false,
+        "vegan": false,
+        "ingType": "lof"
+    },
+    {
+        "title": "Lait \u00e9cr\u00e9m\u00e9",
+        "alergenesIng": [
+            "Produit laitier"
+        ],
+        "vegetarien": true,
+        "sans_lactose": false,
+        "vegan": false,
+        "ingType": "lof"
+    },
+    {
+        "title": "Lait entier",
+        "alergenesIng": [
+            "Produit laitier"
+        ],
+        "vegetarien": true,
+        "sans_lactose": false,
+        "vegan": false,
+        "ingType": "lof"
+    },
+    {
+        "alergenesIng": [
+            "Oeuf"
+        ],
+        "title": "Oeuf",
+        "vegetarien": true,
+        "vegan": false,
+        "ingType": "lof"
+    },
+    {
+        "title": "Oeuf d'autruche",
+        "alergenesIng": [
+            "Oeuf"
+        ],
+        "vegetarien": true,
+        "vegan": false,
+        "ingType": "lof"
+    },
+    {
+        "title": "Oeuf d'oie",
+        "alergenesIng": [
+            "Oeuf"
+        ],
+        "vegetarien": true,
+        "vegan": false,
+        "ingType": "lof"
+    },
+    {
+        "title": "Oeuf de caille",
+        "alergenesIng": [
+            "Oeuf"
+        ],
+        "vegetarien": true,
+        "vegan": false,
+        "ingType": "lof"
+    },
+    {
+        "title": "Oeuf de cane",
+        "alergenesIng": [
+            "Oeuf"
+        ],
+        "vegetarien": true,
+        "vegan": false,
+        "ingType": "lof"
+    },
+    {
+        "title": "Semoule couscous sans gluten",
+        "ingType": "sec"
+    },
+    {
+        "title": "Nouilles de riz Ph\u00f6",
+        "ingType": "sec"
+    },
+    {
+        "title": "Riz basmati",
+        "ingType": "sec"
+    },
+    {
+        "title": "Haricots rouges cuits",
+        "ingType": "sec"
+    },
+    {
+        "title": "Riz pour risotto",
+        "ingType": "sec"
+    },
+    {
+        "title": "Haricots blancs en conserve",
+        "ingType": "sec"
+    },
+    {
+        "title": "Nouilles de riz",
+        "ingType": "sec"
+    },
+    {
+        "title": "Lentilles corail",
+        "ingType": "sec"
+    },
+    {
+        "title": "Petits flocons d'avoine",
+        "ingType": "sec"
+    },
+    {
+        "title": "Quinoa blanc",
+        "ingType": "sec"
+    },
+    {
+        "title": "Graines de nigelle",
+        "ingType": "sec"
+    },
+    {
+        "title": "Polenta fine",
+        "ingType": "sec"
+    },
+    {
+        "title": "Graines de lin",
+        "ingType": "sec"
+    },
+    {
+        "title": "Pois chiche cuit",
+        "ingType": "sec"
+    },
+    {
+        "title": "Flocons d'avoine",
+        "alergenesIng": [
+            "Gluten"
+        ],
+        "ingType": "sec"
+    },
+    {
+        "title": "Amande",
+        "alergenesIng": [
+            "Fruit \u00e0 coque"
+        ],
+        "vegan": true,
+        "vegetarien": true,
+        "ingType": "sec"
+    },
+    {
+        "title": "Amandes effil\u00e9es",
+        "alergenesIng": [
+            "Fruit \u00e0 coque"
+        ],
+        "vegan": true,
+        "vegetarien": true,
+        "ingType": "sec"
+    },
+    {
+        "title": "Bl\u00e9",
+        "alergenesIng": [
+            "Gluten"
+        ],
+        "vegan": true,
+        "vegetarien": true,
+        "ingType": "sec"
+    },
+    {
+        "title": "Boulgour",
+        "vegan": true,
+        "vegetarien": true,
+        "ingType": "sec"
+    },
+    {
+        "alergene": true,
+        "title": "Cacahu\u00e8te",
+        "vegan": true,
+        "vegetarien": true,
+        "alergenesIng": [
+            "Arachide"
+        ],
+        "ingType": "sec"
+    },
+    {
+        "title": "Couscous de Mais-Riz",
+        "vegan": true,
+        "vegetarien": true,
+        "ingType": "sec"
+    },
+    {
+        "title": "F\u00eaves",
+        "vegan": true,
+        "vegetarien": true,
+        "ingType": "sec"
+    },
+    {
+        "title": "Haricots blancs",
+        "vegan": true,
+        "vegetarien": true,
+        "ingType": "sec"
+    },
+    {
+        "title": "Haricots rouges",
+        "vegan": true,
+        "vegetarien": true,
+        "ingType": "sec"
+    },
+    {
+        "title": "Lasagnes",
+        "vegan": true,
+        "vegetarien": true,
+        "alergenesIng": [
+            "Gluten"
+        ],
+        "ingType": "sec"
+    },
+    {
+        "title": "Lentilles",
+        "vegan": true,
+        "vegetarien": true,
+        "ingType": "sec"
+    },
+    {
+        "title": "Lentilles vertes",
+        "vegan": true,
+        "vegetarien": true,
+        "ingType": "sec"
+    },
+    {
+        "title": "Ma\u00efs",
+        "vegan": true,
+        "vegetarien": true,
+        "ingType": "sec"
+    },
+    {
+        "title": "Noisette",
+        "alergenesIng": [
+            "Fruit \u00e0 coque"
+        ],
+        "vegan": true,
+        "vegetarien": true,
+        "ingType": "sec"
+    },
+    {
+        "title": "Noix de cajou",
+        "alergenesIng": [
+            "Fruit \u00e0 coque"
+        ],
+        "vegan": true,
+        "vegetarien": true,
+        "ingType": "sec"
+    },
+    {
+        "alergene": true,
+        "title": "Noix",
+        "vegan": true,
+        "vegetarien": true,
+        "alergenesIng": [
+            "Fruit \u00e0 coque"
+        ],
+        "ingType": "sec"
+    },
+    {
+        "title": "Noix de macadamia",
+        "vegan": true,
+        "vegetarien": true,
+        "alergenesIng": [
+            "Fruit \u00e0 coque"
+        ],
+        "ingType": "sec"
+    },
+    {
+        "title": "Noix de p\u00e9can",
+        "vegan": true,
+        "vegetarien": true,
+        "alergenesIng": [
+            "Fruit \u00e0 coque"
+        ],
+        "ingType": "sec"
+    },
+    {
+        "title": "Nouilles chinoises",
+        "vegan": true,
+        "vegetarien": true,
+        "ingType": "sec"
+    },
+    {
+        "title": "P\u00e2tes",
+        "vegan": true,
+        "vegetarien": true,
+        "alergenesIng": [
+            "Gluten"
+        ],
+        "ingType": "sec"
+    },
+    {
+        "title": "P\u00e2tes - langue d'oiseau",
+        "alergenesIng": [
+            "Gluten"
+        ],
+        "vegan": true,
+        "vegetarien": true,
+        "ingType": "sec"
+    },
+    {
+        "title": "Pignon de pin",
+        "alergenesIng": [
+            "Fruit \u00e0 coque"
+        ],
+        "vegan": true,
+        "vegetarien": true,
+        "ingType": "sec"
+    },
+    {
+        "title": "Pois cass\u00e9s",
+        "vegan": true,
+        "vegetarien": true,
+        "ingType": "sec"
+    },
+    {
+        "title": "Pois chiches",
+        "vegan": true,
+        "vegetarien": true,
+        "ingType": "sec"
+    },
+    {
+        "title": "Polenta (semoule de ma\u00efs)",
+        "vegan": true,
+        "vegetarien": true,
+        "ingType": "sec"
+    },
+    {
+        "title": "Quinoa",
+        "vegan": true,
+        "vegetarien": true,
+        "ingType": "sec"
+    },
+    {
+        "title": "Riz",
+        "vegan": true,
+        "vegetarien": true,
+        "ingType": "sec"
+    },
+    {
+        "title": "Riz rond",
+        "vegan": true,
+        "vegetarien": true,
+        "ingType": "sec"
+    },
+    {
+        "title": "Semoule grosse (bl\u00e9)",
+        "alergenesIng": [
+            "Gluten"
+        ],
+        "vegan": true,
+        "vegetarien": true,
+        "ingType": "sec"
+    },
+    {
+        "title": "Semoule moyenne (bl\u00e9)",
+        "alergenesIng": [
+            "Gluten"
+        ],
+        "vegan": true,
+        "vegetarien": true,
+        "ingType": "sec"
+    },
+    {
+        "title": "Semoule fine (bl\u00e9)",
+        "alergenesIng": [
+            "Gluten"
+        ],
+        "vegan": true,
+        "vegetarien": true,
+        "ingType": "sec"
+    },
+    {
+        "title": "Semoule de manioc",
+        "vegan": true,
+        "vegetarien": true,
+        "ingType": "sec"
+    },
+    {
+        "title": "Semoule de riz",
+        "vegan": true,
+        "vegetarien": true,
+        "ingType": "sec"
+    },
+    {
+        "title": "Spaguetti de Mais-Riz",
+        "vegan": true,
+        "vegetarien": true,
+        "ingType": "sec"
+    },
+    {
+        "title": "Vermicelle de Riz",
+        "vegan": true,
+        "vegetarien": true,
+        "ingType": "sec"
+    },
+    {
+        "title": "Gochujang",
+        "ingType": "epices"
+    },
+    {
+        "title": "Algue wakam\u00e9 s\u00e9ch\u00e9e",
+        "ingType": "epices"
+    },
+    {
+        "title": "Algue kombu s\u00e9ch\u00e9e",
+        "ingType": "epices"
+    },
+    {
+        "title": "Miso blanc",
+        "ingType": "epices"
+    },
+    {
+        "title": "Shizo vert",
+        "pFrais": true,
+        "ingType": "epices"
+    },
+    {
+        "title": "Piment en poudre",
+        "ingType": "epices"
+    },
+    {
+        "title": "Gingembre bio",
+        "pFrais": true,
+        "ingType": "epices"
+    },
+    {
+        "title": "Piment oiseau frais ",
+        "pFrais": true,
+        "ingType": "epices"
+    },
+    {
+        "title": "Gingembre",
+        "pFrais": true,
+        "ingType": "epices"
+    },
+    {
+        "title": "Galanga s\u00e9ch\u00e9",
+        "ingType": "epices"
+    },
+    {
+        "title": "Galanga",
+        "pFrais": true,
+        "ingType": "epices"
+    },
+    {
+        "title": "Sriracha",
+        "ingType": "epices"
+    },
+    {
+        "title": "Melasse de grenade",
+        "ingType": "epices"
+    },
+    {
+        "title": "Liquid smoke",
+        "ingType": "epices"
+    },
+    {
+        "title": "Harissa",
+        "ingType": "epices"
+    },
+    {
+        "title": "Pur\u00e9e d'ail noir",
+        "ingType": "epices"
+    },
+    {
+        "title": "Sambal oelek",
+        "ingType": "epices"
+    },
+    {
+        "title": "Feuille de citron combava",
+        "ingType": "epices"
+    },
+    {
+        "title": "Fenugrec",
+        "ingType": "epices"
+    },
+    {
+        "title": "fenugrec moulu",
+        "ingType": "epices"
+    },
+    {
+        "title": "Sauce tomate mutti",
+        "ingType": "epices"
+    },
+    {
+        "title": "tabasco",
+        "ingType": "epices"
+    },
+    {
+        "title": "Piment oiseau",
+        "ingType": "epices"
+    },
+    {
+        "title": "Miso blanc",
+        "ingType": "epices"
+    },
+    {
+        "title": "Sumac",
+        "ingType": "epices"
+    },
+    {
+        "title": "Piment vert",
+        "ingType": "epices"
+    },
+    {
+        "title": "Anis vert en poudre",
+        "ingType": "epices"
+    },
+    {
+        "title": "Cardamone en poudre",
+        "ingType": "epices"
+    },
+    {
+        "title": "graine de coriandre",
+        "ingType": "epices"
+    },
+    {
+        "title": "Zaatar (zathar)",
+        "alergenesIng": [
+            "S\u00e9same"
+        ],
+        "ingType": "epices"
+    },
+    {
+        "title": "Liquid smoke",
+        "ingType": "epices"
+    },
+    {
+        "title": "Ail en poudre",
+        "ingType": "epices"
+    },
+    {
+        "title": "Sauce piment chipotle",
+        "ingType": "epices"
+    },
+    {
+        "title": "Shiro miso",
+        "ingType": "epices"
+    },
+    {
+        "title": "Miso d'orge",
+        "alergenesIng": [
+            "Gluten"
+        ],
+        "ingType": "epices"
+    },
+    {
+        "title": "Citronnelle (b\u00e2ton)",
+        "ingType": "epices"
+    },
+    {
+        "title": "m\u00e9lange 4 \u00e9pices",
+        "ingType": "epices"
+    },
+    {
+        "title": "Vinaigre de vin",
+        "ingType": "epices"
+    },
+    {
+        "title": "Vinaigre de X\u00e9r\u00e8s",
+        "ingType": "epices"
+    },
+    {
+        "title": "Basilic sec",
+        "saisons": [
+            "ete"
+        ],
+        "ingType": "epices"
+    },
+    {
+        "title": "Coriandre en poudre",
+        "ingType": "epices"
+    },
+    {
+        "title": "Verveine",
+        "ingType": "epices"
+    },
+    {
+        "title": "Menthe s\u00e9ch\u00e9e",
+        "ingType": "epices"
+    },
+    {
+        "title": "Poivre noir moulu",
+        "ingType": "epices"
+    },
+    {
+        "title": "Coriandre fra\u00eeche",
+        "ingType": "epices"
+    },
+    {
+        "title": "Persil frais",
+        "ingType": "epices"
+    },
+    {
+        "title": "Curcuma moulu",
+        "ingType": "epices"
+    },
+    {
+        "title": "Cumin moulu",
+        "ingType": "epices"
+    },
+    {
+        "title": "Estragon s\u00e9ch\u00e9",
+        "ingType": "epices"
+    },
+    {
+        "title": "Raifort en poudre",
+        "ingType": "epices"
+    },
+    {
+        "title": "Piment en flocons",
+        "ingType": "epices"
+    },
+    {
+        "title": "poivre en graine",
+        "ingType": "epices"
+    },
+    {
+        "title": "poivre moulue",
+        "ingType": "epices"
+    },
+    {
+        "title": "poivre blanc moulue",
+        "ingType": "epices"
+    },
+    {
+        "title": "Pandan (extrait de)",
+        "ingType": "epices"
+    },
+    {
+        "title": "Pandan",
+        "ingType": "epices"
+    },
+    {
+        "title": "Bouillon de l\u00e9gumes",
+        "ingType": "epices"
+    },
+    {
+        "title": "Bouillon de l\u00e9gume (sans gluten)",
+        "ingType": "epices"
+    },
+    {
+        "title": "Cumin (graines)",
+        "ingType": "epices"
+    },
+    {
+        "title": "Baies roses",
+        "ingType": "epices"
+    },
+    {
+        "title": "Moutarde douce en flacon ",
+        "ingType": "epices"
+    },
+    {
+        "title": "Poivre de Sichuan",
+        "ingType": "epices"
+    },
+    {
+        "title": "Poivre de Jama\u00efque",
+        "ingType": "epices"
+    },
+    {
+        "title": "Vinaigre de cidre",
+        "ingType": "epices"
+    },
+    {
+        "title": "Garam Masala",
+        "ingType": "epices"
+    },
+    {
+        "title": "Paprika fum\u00e9",
+        "ingType": "epices"
+    },
+    {
+        "title": "Sauce soja dark (fonc\u00e9)",
+        "alergenesIng": [
+            "Soja"
+        ],
+        "ingType": "epices"
+    },
+    {
+        "title": "Tamari (sauce)",
+        "alergenesIng": [
+            "Soja"
+        ],
+        "ingType": "epices"
+    },
+    {
+        "title": "Vinaigre de riz",
+        "ingType": "epices"
+    },
+    {
+        "title": "Aneth aromatique",
+        "vegan": true,
+        "vegetarien": true,
+        "ingType": "epices"
+    },
+    {
+        "title": "Anis \u00e9toil\u00e9",
+        "vegan": true,
+        "vegetarien": true,
+        "ingType": "epices"
+    },
+    {
+        "title": "Basilic",
+        "vegan": true,
+        "vegetarien": true,
+        "ingType": "epices"
+    },
+    {
+        "title": "Bouquet garni",
+        "vegan": true,
+        "vegetarien": true,
+        "ingType": "epices"
+    },
+    {
+        "title": "Canelle",
+        "vegan": true,
+        "vegetarien": true,
+        "ingType": "epices"
+    },
+    {
+        "title": "Cardamome",
+        "vegan": true,
+        "vegetarien": true,
+        "ingType": "epices"
+    },
+    {
+        "title": "Cerfeuil",
+        "vegan": true,
+        "vegetarien": true,
+        "ingType": "epices"
+    },
+    {
+        "title": "Ciboulette",
+        "vegan": true,
+        "vegetarien": true,
+        "ingType": "epices"
+    },
+    {
+        "title": "Citronelle",
+        "vegan": true,
+        "vegetarien": true,
+        "ingType": "epices"
+    },
+    {
+        "title": "Clou de girofle",
+        "vegan": true,
+        "vegetarien": true,
+        "ingType": "epices"
+    },
+    {
+        "title": "Coriandre",
+        "vegan": true,
+        "vegetarien": true,
+        "ingType": "epices"
+    },
+    {
+        "title": "Coulis de tomates",
+        "vegan": true,
+        "vegetarien": true,
+        "ingType": "epices"
+    },
+    {
+        "title": "Cumin",
+        "vegan": true,
+        "vegetarien": true,
+        "ingType": "epices"
+    },
+    {
+        "title": "Curcuma",
+        "vegan": true,
+        "vegetarien": true,
+        "ingType": "epices"
+    },
+    {
+        "title": "Curry",
+        "vegan": true,
+        "vegetarien": true,
+        "ingType": "epices"
+    },
+    {
+        "title": "Estragon",
+        "vegan": true,
+        "vegetarien": true,
+        "ingType": "epices"
+    },
+    {
+        "title": "Feuille de laurier",
+        "vegan": true,
+        "vegetarien": true,
+        "ingType": "epices"
+    },
+    {
+        "title": "Fleur de sel",
+        "vegan": true,
+        "vegetarien": true,
+        "ingType": "epices"
+    },
+    {
+        "title": "Gen\u00e9vrier",
+        "vegan": true,
+        "vegetarien": true,
+        "ingType": "epices"
+    },
+    {
+        "title": "Gingembre en poudre",
+        "vegan": true,
+        "vegetarien": true,
+        "ingType": "epices"
+    },
+    {
+        "title": "Gros sel",
+        "vegan": true,
+        "vegetarien": true,
+        "ingType": "epices"
+    },
+    {
+        "title": "Guacamole",
+        "vegan": true,
+        "vegetarien": true,
+        "ingType": "epices"
+    },
+    {
+        "title": "Herbes de Provence",
+        "vegan": true,
+        "vegetarien": true,
+        "ingType": "epices"
+    },
+    {
+        "title": "Ketchup",
+        "vegan": true,
+        "vegetarien": true,
+        "ingType": "epices"
+    },
+    {
+        "title": "Mayonnaise",
+        "vegan": true,
+        "vegetarien": true,
+        "alergenesIng": [
+            "Oeuf",
+            "Moutarde"
+        ],
+        "ingType": "epices"
+    },
+    {
+        "title": "Menthe",
+        "vegan": true,
+        "vegetarien": true,
+        "ingType": "epices"
+    },
+    {
+        "title": "Moutarde",
+        "vegan": true,
+        "alergenesIng": [
+            "Moutarde"
+        ],
+        "vegetarien": true,
+        "ingType": "epices"
+    },
+    {
+        "title": "Muscade",
+        "vegan": true,
+        "vegetarien": true,
+        "ingType": "epices"
+    },
+    {
+        "title": "Origan",
+        "vegan": true,
+        "vegetarien": true,
+        "ingType": "epices"
+    },
+    {
+        "title": "Paprika",
+        "vegan": true,
+        "vegetarien": true,
+        "ingType": "epices"
+    },
+    {
+        "title": "Pavot",
+        "vegan": true,
+        "vegetarien": true,
+        "ingType": "epices"
+    },
+    {
+        "title": "Persil",
+        "vegan": true,
+        "vegetarien": true,
+        "ingType": "epices"
+    },
+    {
+        "title": "Pesto",
+        "vegan": true,
+        "vegetarien": true,
+        "ingType": "epices"
+    },
+    {
+        "title": "Piment (autre)",
+        "vegan": true,
+        "vegetarien": true,
+        "ingType": "epices"
+    },
+    {
+        "title": "Piment d'espelette",
+        "vegan": true,
+        "vegetarien": true,
+        "ingType": "epices"
+    },
+    {
+        "title": "Poivre",
+        "vegan": true,
+        "vegetarien": true,
+        "ingType": "epices"
+    },
+    {
+        "alergene": true,
+        "title": "Ras el hanout",
+        "alergenesIng": [
+            "Moutarde"
+        ],
+        "vegan": true,
+        "vegetarien": true,
+        "ingType": "epices"
+    },
+    {
+        "title": "Romarin",
+        "vegan": true,
+        "vegetarien": true,
+        "ingType": "epices"
+    },
+    {
+        "title": "Safran",
+        "vegan": true,
+        "vegetarien": true,
+        "ingType": "epices"
+    },
+    {
+        "title": "Sauce soja",
+        "alergenesIng": [
+            "Soja"
+        ],
+        "vegan": true,
+        "vegetarien": true,
+        "ingType": "epices"
+    },
+    {
+        "title": "Sauge",
+        "vegan": true,
+        "vegetarien": true,
+        "ingType": "epices"
+    },
+    {
+        "title": "Sel",
+        "vegan": true,
+        "vegetarien": true,
+        "ingType": "epices"
+    },
+    {
+        "alergene": true,
+        "title": "S\u00e9same dor\u00e9",
+        "alergenesIng": [
+            "S\u00e9same"
+        ],
+        "vegan": true,
+        "vegetarien": true,
+        "ingType": "epices"
+    },
+    {
+        "alergene": true,
+        "title": "S\u00e9same blanc",
+        "alergenesIng": [
+            "S\u00e9same"
+        ],
+        "vegan": true,
+        "vegetarien": true,
+        "ingType": "epices"
+    },
+    {
+        "alergene": true,
+        "title": "S\u00e9same brun",
+        "alergenesIng": [
+            "S\u00e9same"
+        ],
+        "vegan": true,
+        "vegetarien": true,
+        "ingType": "epices"
+    },
+    {
+        "alergene": true,
+        "title": "S\u00e9same noir",
+        "alergenesIng": [
+            "S\u00e9same"
+        ],
+        "vegan": true,
+        "vegetarien": true,
+        "ingType": "epices"
+    },
+    {
+        "title": "Thym",
+        "vegan": true,
+        "vegetarien": true,
+        "ingType": "epices"
+    },
+    {
+        "alergene": true,
+        "title": "Vinaigre balsamique",
+        "alergenesIng": [
+            "Sulfites"
+        ],
+        "ingType": "epices"
+    },
+    {
+        "title": "Vinaigrette",
+        "vegan": true,
+        "vegetarien": true,
+        "ingType": "epices"
+    },
+    {
+        "title": "Vin Rouge",
+        "alergenesIng": [
+            "Sulfites",
+            "Alcool"
+        ],
+        "ingType": "epices"
+    },
+    {
+        "title": "Vin Blanc",
+        "alergenesIng": [
+            "Sulfites",
+            "Alcool"
+        ],
+        "ingType": "epices"
+    }
+]}
