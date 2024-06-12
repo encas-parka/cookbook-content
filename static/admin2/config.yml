@@ -2,7 +2,7 @@ backend:
   # name: git-gateway
   name: github
   repo: encas-parka/enka-cookbook-site
-  branch: main
+  branch: dev
 
   #Permettre un PR sur github sans l'acces aux dépot (github only)
   # open_authoring: true
